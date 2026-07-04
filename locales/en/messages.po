@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-07-04 11:32+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. placeholder {0}: 3
+#: apps/web/src/app/[locale]/i18n-spike/page.tsx
+msgid "{0, plural, one {You have # pending match} other {You have # pending matches}}"
+msgstr "{0, plural, one {You have # pending match} other {You have # pending matches}}"
+
+#: apps/web/src/app/[locale]/i18n-spike/page.tsx
+msgid "Translation spike"
+msgstr "Translation spike"
+
+#: apps/web/src/app/[locale]/i18n-spike/spike-client-counter.tsx
+msgid "Increase counter"
+msgstr "Increase counter"
+
+#: packages/ui/src/components/i18n-spike-text.tsx
+msgid "This string lives in the shared UI package."
+msgstr "This string lives in the shared UI package."
+
+#: apps/web/src/app/[locale]/i18n-spike/page.tsx
+msgid "This paragraph is rendered in a server component with a <0>nested tag</0> inside."
+msgstr "This paragraph is rendered in a server component with a <0>nested tag</0> inside."
+
+#: apps/web/src/app/[locale]/i18n-spike/spike-client-counter.tsx
+msgid "Clicked {count} times"
+msgstr "Clicked {count} times"

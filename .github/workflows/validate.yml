@@ -1,0 +1,26 @@
+name: Validate translations
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Reject edits to the English source catalog
+        if: github.event_name == 'pull_request'
+        run: |
+          git fetch origin "$GITHUB_BASE_REF" --depth=1
+          if ! git diff --quiet "origin/$GITHUB_BASE_REF"...HEAD -- locales/en/; then
+            echo "::error::locales/en/ is generated from the app source and must not be edited here."
+            exit 1
+          fi
+
+      - uses: oven-sh/setup-bun@v2
+
+      - name: Validate PO files and placeholder integrity
+        run: bun run scripts/validate.ts

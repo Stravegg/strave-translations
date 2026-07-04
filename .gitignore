@@ -1,0 +1,2 @@
+# Compiled catalogs are build artifacts of the main repo.
+locales/**/messages.ts
