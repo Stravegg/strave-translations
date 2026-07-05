@@ -13,27 +13,5401 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "User plans"
+msgstr "User plans"
+
+#. placeholder {0}: formatOrdinal(position.placement)
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "{0} Place"
+msgstr "{0} Place"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Save Answers"
+msgstr "Save Answers"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Performance"
+msgstr "Performance"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
+msgid "No players match \"{searchInput}\"."
+msgstr "No players match \"{searchInput}\"."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Real-time match data and live scoring."
+msgstr "Real-time match data and live scoring."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Access control"
+msgstr "Access control"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Captain"
+msgstr "Captain"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Configure how teams pay to join this event."
+msgstr "Configure how teams pay to join this event."
+
+#: packages/ui/src/features/match-detail/map-section.tsx
+msgid "OT"
+msgstr "OT"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "Release notes"
+msgstr "Release notes"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{minutes}m ago"
+msgstr "{minutes}m ago"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Friend request accepted!"
+msgstr "Friend request accepted!"
+
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Multi-stage playoffs"
+msgstr "Multi-stage playoffs"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/hub-stats-tab.tsx
+msgid "Hub Stats Coming Soon"
+msgstr "Hub Stats Coming Soon"
+
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/round-matches.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/swiss-bracket-view.tsx
+msgid "Search teams, matches, rounds…"
+msgstr "Search teams, matches, rounds…"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Team Free"
+msgstr "Team Free"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+#: packages/ui/src/features/landing/client-window.tsx
+#: packages/ui/src/features/landing/landing-navbar.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/navbar/mobile-links.tsx
+msgid "Discover"
+msgstr "Discover"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+msgid "Signups"
+msgstr "Signups"
+
+#. placeholder {0}: request.reviewNote
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Note: {0}"
+msgstr "Note: {0}"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Scroll teams right"
+msgstr "Scroll teams right"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "team registered"
+msgstr "team registered"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "None selected"
+msgstr "None selected"
+
+#: packages/ui/src/components/sidebar.tsx
+msgid "Displays the mobile sidebar."
+msgstr "Displays the mobile sidebar."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/[groupSlug]/not-found.tsx
+msgid "This group does not exist or is no longer available."
+msgstr "This group does not exist or is no longer available."
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Total signups"
+msgstr "Total signups"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Team K/D"
+msgstr "Team K/D"
+
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/navbar/menu-items.tsx
+#: packages/ui/src/modules/core/navbar/mobile-links.tsx
+msgid "My Teams"
+msgstr "My Teams"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "1€ per 1M"
+msgstr "1€ per 1M"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "Mark as read"
+msgstr "Mark as read"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Standard team events with brackets and scheduled tournament play."
+msgstr "Standard team events with brackets and scheduled tournament play."
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "Select a Draft Team"
+msgstr "Select a Draft Team"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Type"
+msgstr "Type"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "Confirm Registration"
+msgstr "Confirm Registration"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Sign Up as Player"
+msgstr "Sign Up as Player"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "History"
+msgstr "History"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Conditions"
+msgstr "Conditions"
+
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Forfeit"
+msgstr "Forfeit"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Joined party"
+msgstr "Joined party"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} < {value}"
+msgstr "{label} < {value}"
+
+#: packages/ui/src/features/landing/closer.tsx
+msgid "Ready?"
+msgstr "Ready?"
+
+#: packages/ui/src/features/stage/round-matches.tsx
+msgid "Match"
+msgstr "Match"
+
+#. placeholder {0}: mainLineup.length + i + 1
+#. placeholder {0}: standins.length + i + 1
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Slot {0}"
+msgstr "Slot {0}"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Organisation seats"
+msgstr "Organisation seats"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "In Queue"
+msgstr "In Queue"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "scheduled"
+msgstr "scheduled"
+
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Event"
+msgstr "Event"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "No ban lists match your search."
+msgstr "No ban lists match your search."
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Failed to update groups"
+msgstr "Failed to update groups"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "WR"
+msgstr "WR"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Basic"
+msgstr "Basic"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Options"
+msgstr "Options"
+
+#: packages/ui/src/modules/event/schedule-page.tsx
+msgid "No matches yet"
+msgstr "No matches yet"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+msgid "Your registration for {eventName} has been submitted."
+msgstr "Your registration for {eventName} has been submitted."
+
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Round robin"
+msgstr "Round robin"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Failed to remove friend"
+msgstr "Failed to remove friend"
+
+#. placeholder {0}: stats.scheduled
+#. placeholder {1}: stats.total
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "{0}/{1} scheduled ({pct}%)"
+msgstr "{0}/{1} scheduled ({pct}%)"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Hub Stats"
+msgstr "Hub Stats"
+
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Event Lineup"
+msgstr "Event Lineup"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Participation is free. If you collect entry fees outside this platform, your event may be terminated."
+msgstr "Participation is free. If you collect entry fees outside this platform, your event may be terminated."
+
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "Match does not exist yet"
+msgstr "Match does not exist yet"
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "Draft Team Not Found"
+msgstr "Draft Team Not Found"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Event Organizer"
+msgstr "Event Organizer"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/recent-performance-card.tsx
+msgid "Recent Performance"
+msgstr "Recent Performance"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Review and confirm your registration"
+msgstr "Review and confirm your registration"
+
+#: packages/ui/src/features/stage/swiss-bracket-view.tsx
+msgid "ELIMINATED"
+msgstr "ELIMINATED"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Picked"
+msgstr "Picked"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Search above to add someone"
+msgstr "Search above to add someone"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Start Time"
+msgstr "Start Time"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Reject"
+msgstr "Reject"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Open"
+msgstr "Open"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Public profile"
+msgstr "Public profile"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "Match reminders, invites, and event updates will show up here."
+msgstr "Match reminders, invites, and event updates will show up here."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Scheduling tools"
+msgstr "Scheduling tools"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "kill-death differential"
+msgstr "kill-death differential"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "managed"
+msgstr "managed"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/activity-card.tsx
+msgid "{count, plural, one {# match} other {# matches}} · {day}"
+msgstr "{count, plural, one {# match} other {# matches}} · {day}"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Failed to sync lineup"
+msgstr "Failed to sync lineup"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "HS %"
+msgstr "HS %"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{date}"
+msgstr "{date}"
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "Draft team banner"
+msgstr "Draft team banner"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Your activities"
+msgstr "Your activities"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Average KDA"
+msgstr "Average KDA"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Stats"
+msgstr "Stats"
+
+#: packages/ui/src/modules/organisation/public-profile/members/members-content.tsx
+#: packages/ui/src/modules/organisation/public-profile/overview/overview-content.tsx
+msgid "Organisation Not Found"
+msgstr "Organisation Not Found"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "No manual entry"
+msgstr "No manual entry"
+
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Share Team"
+msgstr "Share Team"
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "Return home"
+msgstr "Return home"
+
+#: packages/ui/src/modules/organisation/public-profile/members/members-list.tsx
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+msgid "Joined"
+msgstr "Joined"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+msgid "Global"
+msgstr "Global"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Pricing plan type"
+msgstr "Pricing plan type"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Expanded player tooling planned after organisation billing."
+msgstr "Expanded player tooling planned after organisation billing."
+
+#: packages/ui/src/features/match-detail/team-lineups.tsx
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Stand-ins"
+msgstr "Stand-ins"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Schedule Group"
+msgstr "Schedule Group"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Enter question label"
+msgstr "Enter question label"
+
+#: apps/web/src/app/[locale]/(public)/soon/page.tsx
+msgid "This feature is still in development. Check back soon - we're working on it."
+msgstr "This feature is still in development. Check back soon - we're working on it."
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "LATAM"
+msgstr "LATAM"
+
+#: packages/ui/src/modules/team/public-profile/matches/matches-boneyard.tsx
+msgid "Scrim history will appear here once scrims launch."
+msgstr "Scrim history will appear here once scrims launch."
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Max per day"
+msgstr "Max per day"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Sign Up Complete"
+msgstr "Sign Up Complete"
+
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "Placement points"
+msgstr "Placement points"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Stay in lobby"
+msgstr "Stay in lobby"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Active events"
+msgstr "Active events"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/recent-performance-card.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/event/schedule-header.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Matches"
+msgstr "Matches"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+#: packages/ui/src/features/pricing/pricing-page.tsx
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Free"
+msgstr "Free"
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Visibility"
+msgstr "Visibility"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/[groupSlug]/group-page-client.tsx
+msgid "Unable to load group data. Refresh the page or try again later."
+msgstr "Unable to load group data. Refresh the page or try again later."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "20€ / mo included"
+msgstr "20€ / mo included"
+
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "Draw"
+msgstr "Draw"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Could not load signup preview. Please try again."
+msgstr "Could not load signup preview. Please try again."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "DEFENSE"
+msgstr "DEFENSE"
+
+#. placeholder {0}: r.addedCount
+#. placeholder {1}: r.removedCount
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Synced lineup: {0} added, {1} removed."
+msgstr "Synced lineup: {0} added, {1} removed."
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Cookies"
+msgstr "Cookies"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "No friends yet"
+msgstr "No friends yet"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "kills per round"
+msgstr "kills per round"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Some invalid conditions were removed."
+msgstr "Some invalid conditions were removed."
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Set schedule config for this group"
+msgstr "Set schedule config for this group"
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Event Registration"
+msgstr "Event Registration"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Move down"
+msgstr "Move down"
+
+#: packages/ui/src/modules/organisation/public-profile/members/members-content.tsx
+#: packages/ui/src/modules/organisation/public-profile/overview/overview-content.tsx
+msgid "The organisation \"{slug}\" could not be found."
+msgstr "The organisation \"{slug}\" could not be found."
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "Download installer"
+msgstr "Download installer"
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "Successfully registered for {eventName}."
+msgstr "Successfully registered for {eventName}."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Add Member"
+msgstr "Add Member"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/[groupSlug]/not-found.tsx
+msgid "Group not found"
+msgstr "Group not found"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "No players have signed up for {eventName} yet. Share the event link to start receiving signups."
+msgstr "No players have signed up for {eventName} yet. Share the event link to start receiving signups."
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Save Groups"
+msgstr "Save Groups"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "Draft Status"
+msgstr "Draft Status"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "No check-in window scheduled"
+msgstr "No check-in window scheduled"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Profile link copied!"
+msgstr "Profile link copied!"
+
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/round-matches.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Scheduled"
+msgstr "Scheduled"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Pre-draft"
+msgstr "Pre-draft"
+
+#. placeholder {0}: event.teamCount
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Live · {0} teams"
+msgstr "Live · {0} teams"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Map"
+msgstr "Map"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Captains are reviewing the player pool before picks begin."
+msgstr "Captains are reviewing the player pool before picks begin."
+
+#. placeholder {0}: event.name
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "Sign up for {0}"
+msgstr "Sign up for {0}"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Signup Info"
+msgstr "Signup Info"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Terms"
+msgstr "Terms"
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "You don't have permission to view this page. If you believe this is a mistake, contact an administrator."
+msgstr "You don't have permission to view this page. If you believe this is a mistake, contact an administrator."
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Competitive"
+msgstr "Competitive"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Premium API requests"
+msgstr "Premium API requests"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Create organisation"
+msgstr "Create organisation"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "2 / 2  Details"
+msgstr "2 / 2  Details"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Adding..."
+msgstr "Adding..."
+
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+msgid "Match preview"
+msgstr "Match preview"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Max date"
+msgstr "Max date"
+
+#. placeholder {0}: events.length
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "{0, plural, one {# event} other {# events}}"
+msgstr "{0, plural, one {# event} other {# events}}"
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "One client, every match."
+msgstr "One client, every match."
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "Sign in"
+msgstr "Sign in"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Imprint"
+msgstr "Imprint"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+msgid "Fixture-backed snapshots for public profile loading states."
+msgstr "Fixture-backed snapshots for public profile loading states."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} is checked"
+msgstr "{label} is checked"
+
+#: apps/web/src/app/[locale]/(public)/matches/[matchId]/match-content.tsx
+#: apps/web/src/app/[locale]/(public)/matches/[matchId]/page.tsx
+msgid "Match Not Found"
+msgstr "Match Not Found"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-mobile-nav.tsx
+msgid "Navigate through event stages and information"
+msgstr "Navigate through event stages and information"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Search results"
+msgstr "Search results"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "No archived tickets"
+msgstr "No archived tickets"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Finish your current match before joining another lobby."
+msgstr "Finish your current match before joining another lobby."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Overview"
+msgstr "Overview"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Create Ban List"
+msgstr "Create Ban List"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Avg Entry Time"
+msgstr "Avg Entry Time"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "No players found"
+msgstr "No players found"
+
+#. placeholder {0}: event.name
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
+msgid "No players have signed up for {0} yet."
+msgstr "No players have signed up for {0} yet."
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "No options added yet."
+msgstr "No options added yet."
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Offline"
+msgstr "Offline"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Events currently scheduled or live."
+msgstr "Events currently scheduled or live."
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Wants to be friends"
+msgstr "Wants to be friends"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Leader"
+msgstr "Leader"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Tickets"
+msgstr "Tickets"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Remove Friend"
+msgstr "Remove Friend"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Search players..."
+msgstr "Search players..."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Show conditions"
+msgstr "Show conditions"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Your drafts"
+msgstr "Your drafts"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Filter by input type"
+msgstr "Filter by input type"
+
+#. placeholder {0}: entryStats.unscheduled
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "{0} left"
+msgstr "{0} left"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "One shared result"
+msgstr "One shared result"
+
+#: packages/ui/src/components/sidebar.tsx
+msgid "Toggle Sidebar"
+msgstr "Toggle Sidebar"
+
+#. placeholder {0}: invites.length
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Party invites ({0})"
+msgstr "Party invites ({0})"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "See latest updates & features"
+msgstr "See latest updates & features"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Set role to Analyst"
+msgstr "Set role to Analyst"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Restricts chat"
+msgstr "Restricts chat"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Remove Member"
+msgstr "Remove Member"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Revoked and expired entries will appear here."
+msgstr "Revoked and expired entries will appear here."
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Name"
+msgstr "Name"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Add Team Member"
+msgstr "Add Team Member"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Failed to pick player"
+msgstr "Failed to pick player"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "Roster changes for this team will appear here."
+msgstr "Roster changes for this team will appear here."
+
+#: packages/ui/src/features/match-detail/map-section.tsx
+msgid "Operator bans"
+msgstr "Operator bans"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/features/match-detail/round-history.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Rounds"
+msgstr "Rounds"
+
+#. placeholder {0}: Math.round(op.pickRate)
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "{name}: {0}% pick rate"
+msgstr "{name}: {0}% pick rate"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "No teams match “{searchInput}”."
+msgstr "No teams match “{searchInput}”."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+msgid "Rulebook"
+msgstr "Rulebook"
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Public"
+msgstr "Public"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "KOST, entries, clutches"
+msgstr "KOST, entries, clutches"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Add Question"
+msgstr "Add Question"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Approved"
+msgstr "Approved"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Actions"
+msgstr "Actions"
+
+#. placeholder {0}: user.entries.length
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "{0, plural, one {# entry} other {# entries}}"
+msgstr "{0, plural, one {# entry} other {# entries}}"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Full event suite"
+msgstr "Full event suite"
+
 #. placeholder {0}: 3
 #: apps/web/src/app/[locale]/i18n-spike/page.tsx
-msgid "{0, plural, one {You have # pending match} other {You have # pending matches}}"
-msgstr "{0, plural, one {You have # pending match} other {You have # pending matches}}"
+#~ msgid "{0, plural, one {You have # pending match} other {You have # pending matches}}"
+#~ msgstr "{0, plural, one {You have # pending match} other {You have # pending matches}}"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "2"
+msgstr "2"
+
+#: packages/ui/src/modules/team/team-match-row.tsx
+msgid "Action needed"
+msgstr "Action needed"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Sign up for draft"
+msgstr "Sign up for draft"
+
+#: apps/web/src/app/[locale]/(public)/soon/page.tsx
+msgid "We're building something"
+msgstr "We're building something"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Remove quick link"
+msgstr "Remove quick link"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Min value"
+msgstr "Min value"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Label"
+msgstr "Label"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "How it works"
+msgstr "How it works"
+
+#. placeholder {0}: history.length
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "{0, plural, one {# recent change} other {# recent changes}}"
+msgstr "{0, plural, one {# recent change} other {# recent changes}}"
+
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Search opponent or event..."
+msgstr "Search opponent or event..."
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "Page not found"
+msgstr "Page not found"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "left from {oldRole}"
+msgstr "left from {oldRole}"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "was removed from {oldRole}"
+msgstr "was removed from {oldRole}"
+
+#: packages/ui/src/components/time-picker.tsx
+msgid "Pick a time"
+msgstr "Pick a time"
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "Queue ranked. Drop the rage."
+msgstr "Queue ranked. Drop the rage."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "10 included"
+msgstr "10 included"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Basic API and storage"
+msgstr "Basic API and storage"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Custom"
+msgstr "Custom"
+
+#. placeholder {0}: map.order
+#. placeholder {1}: map.name
+#: packages/ui/src/features/match-detail/map-switcher.tsx
+msgid "Map {0}, {1}, {scorePart}, selected"
+msgstr "Map {0}, {1}, {scorePart}, selected"
+
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "No events yet"
+msgstr "No events yet"
+
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "All Organizers"
+msgstr "All Organizers"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "The advanced numbers, per player, per map."
+msgstr "The advanced numbers, per player, per map."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "Match format"
+msgstr "Match format"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Not open yet"
+msgstr "Not open yet"
+
+#: packages/ui/src/modules/team/public-profile/events/events-content.tsx
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+#: packages/ui/src/modules/team/public-profile/matches/matches-content.tsx
+#: packages/ui/src/modules/team/public-profile/overview/overview-content.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-content.tsx
+msgid "The team \"{slug}\" could not be found."
+msgstr "The team \"{slug}\" could not be found."
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "The Hub"
+msgstr "The Hub"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Usage pricing"
+msgstr "Usage pricing"
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "This event requires organiser approval after you sign up."
+msgstr "This event requires organiser approval after you sign up."
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "No prizes set"
+msgstr "No prizes set"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Max selections"
+msgstr "Max selections"
+
+#. placeholder {0}: event.teamCount
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Completed · {0} teams"
+msgstr "Completed · {0} teams"
+
+#. placeholder {0}: Math.max(0, (partyStatus?.memberCount ?? 1) - 1)
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "{0, plural, one {Accepting this invite removes you from your current lobby with # other player.} other {Accepting this invite removes you from your current lobby with # other players.}}"
+msgstr "{0, plural, one {Accepting this invite removes you from your current lobby with # other player.} other {Accepting this invite removes you from your current lobby with # other players.}}"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} is not empty"
+msgstr "{label} is not empty"
+
+#: packages/ui/src/features/landing/landing-navbar.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/navbar/authenticated-user-menu.tsx
+#: packages/ui/src/modules/core/navbar/mobile-links.tsx
+msgid "Search"
+msgstr "Search"
+
+#. placeholder {0}: teamCaptainName(team)
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "You were drafted to {0}'s team."
+msgstr "You were drafted to {0}'s team."
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "assists"
+msgstr "assists"
 
 #: apps/web/src/app/[locale]/i18n-spike/page.tsx
-msgid "Translation spike"
-msgstr "Translation spike"
+#~ msgid "Translation spike"
+#~ msgstr "Translation spike"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "Nothing matches this filter"
+msgstr "Nothing matches this filter"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "No History Yet"
+msgstr "No History Yet"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+msgid "General Infos"
+msgstr "General Infos"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Logo Change"
+msgstr "Logo Change"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Filter with u/ t/ o/ e/"
+msgstr "Filter with u/ t/ o/ e/"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "APAC"
+msgstr "APAC"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "Search ban lists..."
+msgstr "Search ban lists..."
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Pricing"
+msgstr "Pricing"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "soon"
+msgstr "soon"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Chat"
+msgstr "Chat"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/navbar/workspace-items.tsx
+msgid "Create Organisation"
+msgstr "Create Organisation"
+
+#: packages/ui/src/modules/core/navbar/authenticated-user-menu.tsx
+msgid "Calendar"
+msgstr "Calendar"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Quick Info"
+msgstr "Quick Info"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Roster and public team page"
+msgstr "Roster and public team page"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "ADR"
+msgstr "ADR"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Show archived tickets"
+msgstr "Show archived tickets"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Show when"
+msgstr "Show when"
+
+#. placeholder {0}: landingClientMatches.length
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "{0, plural, one {# total} other {# total}}"
+msgstr "{0, plural, one {# total} other {# total}}"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Bomb Sites"
+msgstr "Bomb Sites"
+
+#. placeholder {0}: team.tag
+#: packages/ui/src/features/match-detail/veto-history.tsx
+msgid "{0} picks"
+msgstr "{0} picks"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Captain workflows"
+msgstr "Captain workflows"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Live match statistics"
+msgstr "Live match statistics"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/features/download/download-page.tsx
+#: packages/ui/src/features/pricing/pricing-page.tsx
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Coming soon"
+msgstr "Coming soon"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/activity-card.tsx
+msgid "No activity yet"
+msgstr "No activity yet"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Start with Starter"
+msgstr "Start with Starter"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "No results found"
+msgstr "No results found"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Validation rules require a paid plan."
+msgstr "Validation rules require a paid plan."
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Warning expires"
+msgstr "Warning expires"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Archive"
+msgstr "Archive"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/no-teams-content.tsx
+msgid "You need to create or join a team before signing up for an event."
+msgstr "You need to create or join a team before signing up for an event."
+
+#: packages/ui/src/features/stage/tournament-standings.tsx
+msgid "MP"
+msgstr "MP"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
+msgid "Signups unavailable"
+msgstr "Signups unavailable"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Pick a date"
+msgstr "Pick a date"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/draft-success-content.tsx
+msgid "You have been registered for the draft in {eventName}."
+msgstr "You have been registered for the draft in {eventName}."
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "moved from {oldRole} to {newRole}"
+msgstr "moved from {oldRole} to {newRole}"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "You are the party leader, so leaving disbands the lobby for everyone in it."
+msgstr "You are the party leader, so leaving disbands the lobby for everyone in it."
+
+#: packages/ui/src/modules/core/navbar/unauthenticated-user-menu.tsx
+#: packages/ui/src/modules/core/navbar/user-menu.tsx
+msgid "Log in / Sign Up"
+msgstr "Log in / Sign Up"
+
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Swiss"
+msgstr "Swiss"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Contact us"
+msgstr "Contact us"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/signup-closed-content.tsx
+msgid "Signups Closed"
+msgstr "Signups Closed"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Allowed domains"
+msgstr "Allowed domains"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Plan matches, rounds, and event timelines."
+msgstr "Plan matches, rounds, and event timelines."
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Custom / External"
+msgstr "Custom / External"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Add Rule"
+msgstr "Add Rule"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/question-step.tsx
+msgid "email@example.com"
+msgstr "email@example.com"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "You're signed up for this draft."
+msgstr "You're signed up for this draft."
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Search for something to pin..."
+msgstr "Search for something to pin..."
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Nothing matches “{debounced}”"
+msgstr "Nothing matches “{debounced}”"
+
+#: packages/ui/src/features/match-detail/veto-history.tsx
+msgid "Decider"
+msgstr "Decider"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Storage"
+msgstr "Storage"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{name} will be added to this event lineup."
+msgstr "{name} will be added to this event lineup."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Confirm Lineup Change"
+msgstr "Confirm Lineup Change"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Copy Discord ID"
+msgstr "Copy Discord ID"
+
+#. placeholder {0}: stage.maxTeams
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "{0} Teams"
+msgstr "{0} Teams"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Eliminated"
+msgstr "Eliminated"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Resolving turn…"
+msgstr "Resolving turn…"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "For larger circuits that need custom tools and direct support."
+msgstr "For larger circuits that need custom tools and direct support."
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "Match stats"
+msgstr "Match stats"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/[groupSlug]/not-found.tsx
+msgid "Back to stage"
+msgstr "Back to stage"
+
+#: packages/ui/src/modules/core/navbar/reset-password-form.tsx
+msgid "Request Reset Link"
+msgstr "Request Reset Link"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Already scheduled - saving will update"
+msgstr "Already scheduled - saving will update"
+
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+msgid "Match page"
+msgstr "Match page"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Auto-Schedule"
+msgstr "Auto-Schedule"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/no-teams-content.tsx
+msgid "Create a Team"
+msgstr "Create a Team"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Help Center"
+msgstr "Help Center"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Draft Sign Up"
+msgstr "Draft Sign Up"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Included"
+msgstr "Included"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/rulebook-tab.tsx
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Prize Pool"
+msgstr "Prize Pool"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "No slots left"
+msgstr "No slots left"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Solo-friendly events where captains build teams from the player pool."
+msgstr "Solo-friendly events where captains build teams from the player pool."
+
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+msgid "Unable to Sign Up"
+msgstr "Unable to Sign Up"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "How entry fees are collected for this event."
+msgstr "How entry fees are collected for this event."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+#: packages/ui/src/features/pricing/pricing-page.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Teams"
+msgstr "Teams"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Recent"
+msgstr "Recent"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+msgid "Connect your Discord account to participate in drafts"
+msgstr "Connect your Discord account to participate in drafts"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Current player profile and tournament access."
+msgstr "Current player profile and tournament access."
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Try a different search term or filter."
+msgstr "Try a different search term or filter."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Helpful"
+msgstr "Helpful"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Community"
+msgstr "Community"
+
+#. placeholder {0}: p.fromPosition
+#. placeholder {0}: p.toPosition
+#. placeholder {1}: p.fromPosition
+#. placeholder {1}: p.toPosition
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "Places {0}–{1}"
+msgstr "Places {0}–{1}"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Step"
+msgstr "Step"
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "Go back"
+msgstr "Go back"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Monthly included usage"
+msgstr "Monthly included usage"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Everyone from the default lineup is already part of this event team."
+msgstr "Everyone from the default lineup is already part of this event team."
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "Delete"
+msgstr "Delete"
+
+#: packages/ui/src/modules/team/public-profile/events/events-boneyard.tsx
+msgid "This team hasn't joined any events yet."
+msgstr "This team hasn't joined any events yet."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Role Change"
+msgstr "Role Change"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Combat"
+msgstr "Combat"
+
+#. placeholder {0}: selectedTeam.name
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "{0} logo"
+msgstr "{0} logo"
+
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "← Show all rounds"
+msgstr "← Show all rounds"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Sign Up Your Team"
+msgstr "Sign Up Your Team"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "MENA"
+msgstr "MENA"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Select primary team"
+msgstr "Select primary team"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "No drafts available"
+msgstr "No drafts available"
+
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "Round of {teamCount}"
+msgstr "Round of {teamCount}"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "North America"
+msgstr "North America"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Available"
+msgstr "Available"
+
+#: packages/ui/src/features/landing/client-window.tsx
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Filters"
+msgstr "Filters"
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "We've encountered an unexpected error. You can try again, or head back and we'll keep working on it."
+msgstr "We've encountered an unexpected error. You can try again, or head back and we'll keep working on it."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Overlays and SDK"
+msgstr "Overlays and SDK"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/activity-card.tsx
+msgid "{total, plural, one {# match} other {# matches}}"
+msgstr "{total, plural, one {# match} other {# matches}}"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Community cups"
+msgstr "Community cups"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "No prizes yet"
+msgstr "No prizes yet"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "Open field"
+msgstr "Open field"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Clutch Situations"
+msgstr "Clutch Situations"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "RTMP streaming"
+msgstr "RTMP streaming"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "1 / 2  Select target"
+msgstr "1 / 2  Select target"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Established"
+msgstr "Established"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Username copied"
+msgstr "Username copied"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Restricts voice"
+msgstr "Restricts voice"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Schedule by"
+msgstr "Schedule by"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Advanced event features"
+msgstr "Advanced event features"
+
+#. placeholder {0}: position.money?.toFixed(2)
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "{0} € cash"
+msgstr "{0} € cash"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Until specific date"
+msgstr "Until specific date"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Start Date"
+msgstr "Start Date"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Hide conditions"
+msgstr "Hide conditions"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Event Already Started"
+msgstr "Event Already Started"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Closed"
+msgstr "Closed"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Casual cups with custom team sizes and relaxed rules."
+msgstr "Casual cups with custom team sizes and relaxed rules."
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Navigate"
+msgstr "Navigate"
+
+#: packages/ui/src/features/landing/stats-banner.tsx
+msgid "Verified players"
+msgstr "Verified players"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "Input Type"
+msgstr "Input Type"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Cancel"
+msgstr "Cancel"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "No available players remaining."
+msgstr "No available players remaining."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+#: packages/ui/src/composites/event-card.tsx
+#: packages/ui/src/features/discover/discover-page.tsx
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/round-matches.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Live"
+msgstr "Live"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Where teams complete payment outside the platform."
+msgstr "Where teams complete payment outside the platform."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/matches/matches-content.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/overview-content.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/stats-content.tsx
+msgid "User Not Found"
+msgstr "User Not Found"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/rulebook-tab.tsx
+msgid "Total:"
+msgstr "Total:"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Disqualified"
+msgstr "Disqualified"
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "Desktop client"
+msgstr "Desktop client"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "Done"
+msgstr "Done"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Members counted against organisation billing."
+msgstr "Members counted against organisation billing."
+
+#. placeholder {0}: availablePlayers.length
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Available players ({0})"
+msgstr "Available players ({0})"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Current roster, events, and public team profile."
+msgstr "Current roster, events, and public team profile."
+
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Founded {foundedLabel}"
+msgstr "Founded {foundedLabel}"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Your signup is pending organizer approval."
+msgstr "Your signup is pending organizer approval."
+
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "Per-group tables are under each group in the bar above."
+msgstr "Per-group tables are under each group in the bar above."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Preview, from team roster"
+msgstr "Preview, from team roster"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+msgid "Draft Event"
+msgstr "Draft Event"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Searching..."
+msgstr "Searching..."
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Remove captain"
+msgstr "Remove captain"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Warnings don't block access. Default: 3 months."
+msgstr "Warnings don't block access. Default: 3 months."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Top Operators"
+msgstr "Top Operators"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Search and select to pin"
+msgstr "Search and select to pin"
+
+#: packages/ui/src/features/stage/placement-standings-table.tsx
+msgid "Placements appear here once bracket matches finish."
+msgstr "Placements appear here once bracket matches finish."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+#: packages/ui/src/features/match-detail/map-switcher.tsx
+msgid "Overall"
+msgstr "Overall"
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "Sign up"
+msgstr "Sign up"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Share Profile"
+msgstr "Share Profile"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Bundle"
+msgstr "Bundle"
+
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "Protested"
+msgstr "Protested"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Everyone from your default lineup is already in this event team."
+msgstr "Everyone from your default lineup is already in this event team."
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "No main lineup players."
+msgstr "No main lineup players."
+
+#. placeholder {0}: preview.playerCount
+#. placeholder {1}: preview.playerLimit ? `/${preview.playerLimit}` : ""
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "{0}{1} players signed up"
+msgstr "{0}{1} players signed up"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+msgid "Route fallbacks"
+msgstr "Route fallbacks"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "Today"
+msgstr "Today"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Sync lineup"
+msgstr "Sync lineup"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "clutches"
+msgstr "clutches"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "None"
+msgstr "None"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Profile Banner"
+msgstr "Profile Banner"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "{groupCount} Groups ({teamsPerGroup} each)"
+msgstr "{groupCount} Groups ({teamsPerGroup} each)"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Max length"
+msgstr "Max length"
+
+#: apps/web/src/app/[locale]/(public)/matches/[matchId]/match-content.tsx
+msgid "You're competing in this match."
+msgstr "You're competing in this match."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Rising"
+msgstr "Rising"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/group-selection-step.tsx
+msgid "All qualifier groups have already started, so signups for this event are closed."
+msgstr "All qualifier groups have already started, so signups for this event are closed."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Feature"
+msgstr "Feature"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Payment method"
+msgstr "Payment method"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+#: packages/ui/src/composites/event-card.tsx
+msgid "Draft"
+msgstr "Draft"
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "This draft team could not be found, or the event is not public."
+msgstr "This draft team could not be found, or the event is not public."
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Edit"
+msgstr "Edit"
+
+#. placeholder {0}: notifications.length
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "{unreadCount} unread of {0}"
+msgstr "{unreadCount} unread of {0}"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "Removed"
+msgstr "Removed"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Withdraw from Event"
+msgstr "Withdraw from Event"
+
+#: packages/ui/src/modules/core/navbar/workspace-empty-state.tsx
+msgid "Get started by creating an organisation or team"
+msgstr "Get started by creating an organisation or team"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Some conditions were removed due to reordering."
+msgstr "Some conditions were removed due to reordering."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-mobile-nav.tsx
+msgid "Stages"
+msgstr "Stages"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Map Win %"
+msgstr "Map Win %"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "Preferred Role"
+msgstr "Preferred Role"
+
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Report Team"
+msgstr "Report Team"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Metered per 1M premium requests."
+msgstr "Metered per 1M premium requests."
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Submitting"
+msgstr "Submitting"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Veto frequency across competitive matches"
+msgstr "Veto frequency across competitive matches"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "{weeks}w ago"
+msgstr "{weeks}w ago"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "No custom questions"
+msgstr "No custom questions"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{name} will be moved to Stand-in."
+msgstr "{name} will be moved to Stand-in."
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Remove Warning"
+msgstr "Remove Warning"
+
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+msgid "Roster"
+msgstr "Roster"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/input-type-step.tsx
+msgid "Select your input type"
+msgstr "Select your input type"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Friend removed"
+msgstr "Friend removed"
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "Draft team"
+msgstr "Draft team"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Edit Question"
+msgstr "Edit Question"
+
+#. placeholder {0}: r.requestCount
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Created {0, plural, one {# change request} other {# change requests}} to sync lineup."
+msgstr "Created {0, plural, one {# change request} other {# change requests}} to sync lineup."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/[groupSlug]/group-page-client.tsx
+msgid "No teams have been assigned to this group yet."
+msgstr "No teams have been assigned to this group yet."
+
+#: packages/ui/src/modules/team/public-profile/overview/about-card.tsx
+msgid "Platform"
+msgstr "Platform"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/features/match-detail/team-lineups.tsx
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Stand-in"
+msgstr "Stand-in"
+
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+msgid "{memberCount, plural, one {# member} other {# members}}"
+msgstr "{memberCount, plural, one {# member} other {# members}}"
+
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Open team menu"
+msgstr "Open team menu"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Team plans"
+msgstr "Team plans"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "external"
+msgstr "external"
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Registration Complete"
+msgstr "Registration Complete"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Unable to Load"
+msgstr "Unable to Load"
+
+#: packages/ui/src/modules/organisation/public-profile/overview/events-section.tsx
+#: packages/ui/src/modules/team/public-profile/events/events-boneyard.tsx
+msgid "Past"
+msgstr "Past"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/matches/matches-boneyard.tsx
+#: packages/ui/src/modules/team/public-profile/matches/matches-boneyard.tsx
+msgid "Competitive Matches"
+msgstr "Competitive Matches"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Min date"
+msgstr "Min date"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "None (free)"
+msgstr "None (free)"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Clutch & Objective"
+msgstr "Clutch & Objective"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/team-selection-step.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Registered"
+msgstr "Registered"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "Confirm Sign Up"
+msgstr "Confirm Sign Up"
+
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+msgid "{months}mo ago"
+msgstr "{months}mo ago"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Signups are open. Captains and teams aren't set yet."
+msgstr "Signups are open. Captains and teams aren't set yet."
+
+#. placeholder {0}: formatRelativeDate(entry.issuedAt)
+#. placeholder {1}: entry.issuedByName ?? entry.issuedBy.slice(0, 8)
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "{0} by {1}"
+msgstr "{0} by {1}"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Add Position"
+msgstr "Add Position"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Captains"
+msgstr "Captains"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Show active tickets"
+msgstr "Show active tickets"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Add Warning"
+msgstr "Add Warning"
+
+#: packages/ui/src/features/match-detail/veto-history.tsx
+msgid "Map veto"
+msgstr "Map veto"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "Search teams in this group…"
+msgstr "Search teams in this group…"
+
+#: packages/ui/src/features/landing/landing-navbar.tsx
+#: packages/ui/src/modules/core/navbar/authenticated-user-menu.tsx
+msgid "User profile"
+msgstr "User profile"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Included usage"
+msgstr "Included usage"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/navbar/workspace-items.tsx
+msgid "Create Team"
+msgstr "Create Team"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/recent-performance-card.tsx
+msgid "Your K/D trend appears here once a few matches are captured."
+msgstr "Your K/D trend appears here once a few matches are captured."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Map Combat"
+msgstr "Map Combat"
+
+#: packages/ui/src/modules/team/public-profile/events/events-content.tsx
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+#: packages/ui/src/modules/team/public-profile/matches/matches-content.tsx
+#: packages/ui/src/modules/team/public-profile/overview/overview-content.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-content.tsx
+msgid "Team Not Found"
+msgstr "Team Not Found"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Define rewards for each finishing position."
+msgstr "Define rewards for each finishing position."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{name} will be moved to Main Lineup."
+msgstr "{name} will be moved to Main Lineup."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Aces"
+msgstr "Aces"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} does not equal \"{value}\""
+msgstr "{label} does not equal \"{value}\""
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "Discord role sync"
+msgstr "Discord role sync"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Free plan: {MAX_FREE_QUESTIONS} questions. Upgrade for unlimited questions, conditional logic, and validation."
+msgstr "Free plan: {MAX_FREE_QUESTIONS} questions. Upgrade for unlimited questions, conditional logic, and validation."
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Coach"
+msgstr "Coach"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Accept"
+msgstr "Accept"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "Capacity: {teamLabel}."
+msgstr "Capacity: {teamLabel}."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "The public draft board appears once the event is published or you are signed up."
+msgstr "The public draft board appears once the event is published or you are signed up."
+
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Team Banner"
+msgstr "Team Banner"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Organizer"
+msgstr "Organizer"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/not-authenticated-content.tsx
+msgid "Login to Participate"
+msgstr "Login to Participate"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Enforce constraints on answers (length, range, pattern, etc)."
+msgstr "Enforce constraints on answers (length, range, pattern, etc)."
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Tournament Client"
+msgstr "Tournament Client"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Change Requests"
+msgstr "Change Requests"
+
+#: packages/ui/src/features/match-detail/match-top.tsx
+msgid "Watch VOD"
+msgstr "Watch VOD"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+#: packages/ui/src/modules/organisation/public-profile/members/members-list.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Role"
+msgstr "Role"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Start with Pro"
+msgstr "Start with Pro"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+msgid "Profile loading showcases"
+msgstr "Profile loading showcases"
+
+#: packages/ui/src/features/stage/round-matches.tsx
+msgid "Canceled"
+msgstr "Canceled"
+
+#. placeholder {0}: map.order
+#: packages/ui/src/features/match-detail/map-switcher.tsx
+msgid "Map {0}"
+msgstr "Map {0}"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Automatically distribute matches across multiple days"
+msgstr "Automatically distribute matches across multiple days"
+
+#: apps/web/src/app/[locale]/(public)/matches/[matchId]/match-content.tsx
+msgid "Open match controls"
+msgstr "Open match controls"
+
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+msgid "Report"
+msgstr "Report"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Schedule"
+msgstr "Schedule"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "No prizes configured yet."
+msgstr "No prizes configured yet."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Cancel Request"
+msgstr "Cancel Request"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+msgid "Your registration is confirmed"
+msgstr "Your registration is confirmed"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-mobile-nav.tsx
+msgid "Open event navigation"
+msgstr "Open event navigation"
+
+#: packages/ui/src/features/stage/stage-skeletons.tsx
+msgid "This group isn't seeded yet"
+msgstr "This group isn't seeded yet"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Organisations"
+msgstr "Organisations"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/recent-performance-card.tsx
+msgid "Not enough matches yet"
+msgstr "Not enough matches yet"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Enterprise"
+msgstr "Enterprise"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/question-step.tsx
+msgid "Enter your answer..."
+msgstr "Enter your answer..."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Set role to Main Lineup"
+msgstr "Set role to Main Lineup"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Friendly"
+msgstr "Friendly"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "No tournaments available"
+msgstr "No tournaments available"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Failed to accept friend request"
+msgstr "Failed to accept friend request"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Set role to Coach"
+msgstr "Set role to Coach"
 
 #: apps/web/src/app/[locale]/i18n-spike/spike-client-counter.tsx
-msgid "Increase counter"
-msgstr "Increase counter"
+#~ msgid "Increase counter"
+#~ msgstr "Increase counter"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Unschedule match?"
+msgstr "Unschedule match?"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "No answers provided"
+msgstr "No answers provided"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Check-in"
+msgstr "Check-in"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "No stable release was found on the update server. New builds are published by CI on every release - check back shortly."
+msgstr "No stable release was found on the update server. New builds are published by CI on every release - check back shortly."
+
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Single & double elim"
+msgstr "Single & double elim"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "25 included"
+msgstr "25 included"
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Compete"
+msgstr "Compete"
+
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Strave is where tournament organizers, team captains, and ranked grinders run competitive Rainbow Six. Host brackets, queue the hub, and track every match from one account."
+msgstr "Strave is where tournament organizers, team captains, and ranked grinders run competitive Rainbow Six. Host brackets, queue the hub, and track every match from one account."
+
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "Semifinal"
+msgstr "Semifinal"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "kills"
+msgstr "kills"
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Collapse"
+msgstr "Collapse"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Captain and preparation tooling planned for teams."
+msgstr "Captain and preparation tooling planned for teams."
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "Month"
+msgstr "Month"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "No results for “{query}”"
+msgstr "No results for “{query}”"
+
+#. placeholder {0}: i18n._(SORT_NAMES[sortKey])
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "Sort by {0}"
+msgstr "Sort by {0}"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "No notifications yet"
+msgstr "No notifications yet"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "No players signed up"
+msgstr "No players signed up"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "No captured matches yet - play with the Strave client running."
+msgstr "No captured matches yet - play with the Strave client running."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Failed to update lineup"
+msgstr "Failed to update lineup"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Overall Map Stats"
+msgstr "Overall Map Stats"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "Missing from Strave"
+msgstr "Missing from Strave"
+
+#. placeholder {0}: banlist.stats.warnings
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "{0} warnings"
+msgstr "{0} warnings"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Min selections"
+msgstr "Min selections"
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "You need to sign in before you can sign up for this event."
+msgstr "You need to sign in before you can sign up for this event."
+
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+msgid "The organizer will review your registration."
+msgstr "The organizer will review your registration."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/rulebook-tab.tsx
+msgid "Rulebooks"
+msgstr "Rulebooks"
+
+#: packages/ui/src/features/stage/stage-skeletons.tsx
+msgid "Awaiting organizer"
+msgstr "Awaiting organizer"
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Creating..."
+msgstr "Creating..."
+
+#. placeholder {0}: stage.maxTeams
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Top {0} advance"
+msgstr "Top {0} advance"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "v{version} · published {published} · Windows 10/11 · 64-bit · signed build"
+msgstr "v{version} · published {published} · Windows 10/11 · 64-bit · signed build"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Show validation"
+msgstr "Show validation"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "No teams in this group yet."
+msgstr "No teams in this group yet."
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "The page you're looking for doesn't exist or has been moved to another URL."
+msgstr "The page you're looking for doesn't exist or has been moved to another URL."
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Current"
+msgstr "Current"
+
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+msgid "Added"
+msgstr "Added"
+
+#: packages/ui/src/modules/core/navbar/workspace-empty-state.tsx
+msgid "No workspaces yet"
+msgstr "No workspaces yet"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Cash Prize"
+msgstr "Cash Prize"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/draft-success-content.tsx
+msgid "You'll be picked by a captain during the draft"
+msgstr "You'll be picked by a captain during the draft"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Prize Summary"
+msgstr "Prize Summary"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+msgid "Connect Ubisoft"
+msgstr "Connect Ubisoft"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/question-step.tsx
+msgid "Select an option"
+msgstr "Select an option"
+
+#. placeholder {0}: user.displayUsername
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "Open {0}"
+msgstr "Open {0}"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/features/match-detail/veto-history.tsx
+#: packages/ui/src/features/stage/round-matches.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+#: packages/ui/src/modules/team/team-match-row.tsx
+msgid "TBD"
+msgstr "TBD"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Create"
+msgstr "Create"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Name Change"
+msgstr "Name Change"
+
+#: packages/ui/src/features/landing/landing-navbar.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/navbar/connected-navbar.tsx
+#: packages/ui/src/modules/core/navbar/logo.tsx
+#: packages/ui/src/modules/core/navbar/mobile-links.tsx
+msgid "Home"
+msgstr "Home"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Organisation plans"
+msgstr "Organisation plans"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "Unable to load standings. Refresh the page or try again later."
+msgstr "Unable to load standings. Refresh the page or try again later."
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Failed to withdraw"
+msgstr "Failed to withdraw"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+#: packages/ui/src/features/match-detail/map-switcher.tsx
+#: packages/ui/src/modules/organisation/public-profile/overview/events-section.tsx
+msgid "Upcoming"
+msgstr "Upcoming"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Map Performance"
+msgstr "Map Performance"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Friend request sent"
+msgstr "Friend request sent"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "KOST percentage"
+msgstr "KOST percentage"
+
+#: packages/ui/src/components/saved-indicator.tsx
+msgid "Saved"
+msgstr "Saved"
+
+#: packages/ui/src/features/landing/landing-navbar.tsx
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "Notifications"
+msgstr "Notifications"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "All Stages"
+msgstr "All Stages"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "teams registered"
+msgstr "teams registered"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+msgid "Players"
+msgstr "Players"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/rulebook-tab.tsx
+msgid "Within {protestTimeLimit} min of match end"
+msgstr "Within {protestTimeLimit} min of match end"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/group-selection-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/question-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/role-step.tsx
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Back"
+msgstr "Back"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Custom Moss retention rates and more."
+msgstr "Custom Moss retention rates and more."
+
+#: packages/ui/src/composites/floating-search-bar-component.tsx
+msgid "Search…"
+msgstr "Search…"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Strave Rating"
+msgstr "Strave Rating"
+
+#: packages/ui/src/composites/floating-search-bar-component.tsx
+msgid "No matches found"
+msgstr "No matches found"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+msgid "Connect Discord"
+msgstr "Connect Discord"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/features/landing/stats-banner.tsx
+msgid "Tournaments"
+msgstr "Tournaments"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Planned"
+msgstr "Planned"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Remove selection"
+msgstr "Remove selection"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "New"
+msgstr "New"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Friend request accepted"
+msgstr "Friend request accepted"
+
+#. placeholder {0}: banlist.stats.uniqueUsers
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "{0} users"
+msgstr "{0} users"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Picking"
+msgstr "Picking"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "{filledSlots}/{rosterSize} players"
+msgstr "{filledSlots}/{rosterSize} players"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "Please review your details above. By confirming, you agree to participate in this event."
+msgstr "Please review your details above. By confirming, you agree to participate in this event."
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "Seasonal resets, regional ladders, solo to five-stack."
+msgstr "Seasonal resets, regional ladders, solo to five-stack."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "You're a captain in this draft."
+msgstr "You're a captain in this draft."
+
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "You can still sign up. If there are not enough players for another full team, organisers may keep extra players as reserves."
+msgstr "You can still sign up. If there are not enough players for another full team, organisers may keep extra players as reserves."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} is not checked"
+msgstr "{label} is not checked"
+
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+msgid "Organisation link copied!"
+msgstr "Organisation link copied!"
+
+#: apps/web/src/app/[locale]/(public)/matches/[matchId]/match-content.tsx
+msgid "This match does not exist or is not publicly accessible."
+msgstr "This match does not exist or is not publicly accessible."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Personal stats and history upgrades planned for players."
+msgstr "Personal stats and history upgrades planned for players."
+
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Manage Team"
+msgstr "Manage Team"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/draft-success-content.tsx
+msgid "Captains will review players during the scouting phase"
+msgstr "Captains will review players during the scouting phase"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Lineup is already in sync."
+msgstr "Lineup is already in sync."
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Schedule Config"
+msgstr "Schedule Config"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "Plant"
+msgstr "Plant"
+
+#: packages/ui/src/modules/organisation/public-profile/overview/events-section.tsx
+#: packages/ui/src/modules/team/public-profile/events/events-boneyard.tsx
+msgid "Ongoing"
+msgstr "Ongoing"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Newcomer"
+msgstr "Newcomer"
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "You're signed up"
+msgstr "You're signed up"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Sign up as a player. Captains will draft from the pool once teams are formed."
+msgstr "Sign up as a player. Captains will draft from the pool once teams are formed."
+
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "Banned players will be skipped"
+msgstr "Banned players will be skipped"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Picking now"
+msgstr "Picking now"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Drafts will appear here when organisers open signups."
+msgstr "Drafts will appear here when organisers open signups."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Decline"
+msgstr "Decline"
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "1v1 solo entry"
+msgstr "1v1 solo entry"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Leave your current lobby?"
+msgstr "Leave your current lobby?"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Read only: {readOnlyReason}"
+msgstr "Read only: {readOnlyReason}"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Uploaded evidence and production assets."
+msgstr "Uploaded evidence and production assets."
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "Scores, K/D/A, and rounds read straight from your game."
+msgstr "Scores, K/D/A, and rounds read straight from your game."
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/group-selection-step.tsx
+msgid "Started"
+msgstr "Started"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Win Rate"
+msgstr "Win Rate"
+
+#: packages/ui/src/features/landing/closer.tsx
+msgid "Queue up."
+msgstr "Queue up."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "No matches scheduled yet"
+msgstr "No matches scheduled yet"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/draft-success-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+msgid "You're Signed Up!"
+msgstr "You're Signed Up!"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "0,03€ / GB"
+msgstr "0,03€ / GB"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/signup-closed-content.tsx
+msgid "The qualifier has already started, so new registrations are no longer accepted."
+msgstr "The qualifier has already started, so new registrations are no longer accepted."
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Registered by"
+msgstr "Registered by"
+
+#. placeholder {0}: event.name
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Successfully registered for {0}"
+msgstr "Successfully registered for {0}"
+
+#: packages/ui/src/modules/team/public-profile/overview/about-card.tsx
+msgid "Country"
+msgstr "Country"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/rulebook-tab.tsx
+msgid "Protests Allowed"
+msgstr "Protests Allowed"
+
+#. placeholder {0}: preview.length
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "{0, plural, one {# match} other {# matches}} across {estimatedDays, plural, one {# day} other {# days}}"
+msgstr "{0, plural, one {# match} other {# matches}} across {estimatedDays, plural, one {# day} other {# days}}"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "View"
+msgstr "View"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Not included"
+msgstr "Not included"
+
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/features/stage/round-matches.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "vs"
+msgstr "vs"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Add lineup member"
+msgstr "Add lineup member"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Friend request cancelled"
+msgstr "Friend request cancelled"
+
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Team link copied!"
+msgstr "Team link copied!"
+
+#. placeholder {0}: stageStart !== undefined ? formatPublicStageStart(stageStart) : t`TBD`
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Starts <0>{0}</0>"
+msgstr "Starts <0>{0}</0>"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "No teams yet"
+msgstr "No teams yet"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "Mark all read"
+msgstr "Mark all read"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "One URL per line"
+msgstr "One URL per line"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Powered by:"
+msgstr "Powered by:"
+
+#: packages/ui/src/modules/team/public-profile/events/events-boneyard.tsx
+msgid "Signed Up"
+msgstr "Signed Up"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "Team blocked by banlist"
+msgstr "Team blocked by banlist"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Registration questions cannot be changed after the event has been published."
+msgstr "Registration questions cannot be changed after the event has been published."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
+msgid "Draft signups are only visible after the event is published."
+msgstr "Draft signups are only visible after the event is published."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} does not contain \"{value}\""
+msgstr "{label} does not contain \"{value}\""
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Free plan is limited to {MAX_FREE_QUESTIONS} custom questions. Upgrade to add more."
+msgstr "Free plan is limited to {MAX_FREE_QUESTIONS} custom questions. Upgrade to add more."
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "Awaiting seeding"
+msgstr "Awaiting seeding"
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "Ranks and match pings land where your team already talks."
+msgstr "Ranks and match pings land where your team already talks."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "ATTACK"
+msgstr "ATTACK"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "teams"
+msgstr "teams"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "No stable build published yet"
+msgstr "No stable build published yet"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Open profile actions menu"
+msgstr "Open profile actions menu"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Friend request declined"
+msgstr "Friend request declined"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Voice"
+msgstr "Voice"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/not-found.tsx
+msgid "Back to event"
+msgstr "Back to event"
+
+#: packages/ui/src/modules/core/navbar/reset-password-form.tsx
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "Try again"
+msgstr "Try again"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "No Competitive Stats"
+msgstr "No Competitive Stats"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Metered per 1M requests."
+msgstr "Metered per 1M requests."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Replay history"
+msgstr "Replay history"
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Live activity"
+msgstr "Live activity"
+
+#: packages/ui/src/features/stage/stage-skeletons.tsx
+msgid "Teams haven't been assigned across this stage yet. Brackets, standings, and schedules will show here after the organizer completes seeding."
+msgstr "Teams haven't been assigned across this stage yet. Brackets, standings, and schedules will show here after the organizer completes seeding."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Private events"
+msgstr "Private events"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "Format"
+msgstr "Format"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Search users, teams, organisations, events, or navigate pages"
+msgstr "Search users, teams, organisations, events, or navigate pages"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Check back later"
+msgstr "Check back later"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/rulebook-tab.tsx
+msgid "No Protests"
+msgstr "No Protests"
+
+#. placeholder {0}: organisationData.name
+#: packages/ui/src/modules/organisation/public-profile/overview/about-card.tsx
+msgid "We don't know much about {0} yet."
+msgstr "We don't know much about {0} yet."
+
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "Signing Up..."
+msgstr "Signing Up..."
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Warning only"
+msgstr "Warning only"
+
+#: packages/ui/src/features/stage/placement-standings-table.tsx
+#: packages/ui/src/features/stage/tournament-standings.tsx
+#: packages/ui/src/modules/core/navbar/workspace-empty-state.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Team"
+msgstr "Team"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+msgid "Event discovery loading - capture name <0>app-discover</0>."
+msgstr "Event discovery loading - capture name <0>app-discover</0>."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Advance"
+msgstr "Advance"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Map KOST %"
+msgstr "Map KOST %"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Hide events from public discovery."
+msgstr "Hide events from public discovery."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Max value"
+msgstr "Max value"
+
+#: packages/ui/src/components/time-picker.tsx
+msgid "Select time"
+msgstr "Select time"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Opening Duel Win %"
+msgstr "Opening Duel Win %"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{name} will be moved to Coach."
+msgstr "{name} will be moved to Coach."
+
+#. placeholder {0}: p.points
+#. placeholder {0}: pointSystem.drawPoints
+#. placeholder {0}: pointSystem.lossPoints
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "{0} pts"
+msgstr "{0} pts"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Replace Player"
+msgstr "Replace Player"
+
+#. placeholder {0}: Math.round(op.pickRate)
+#. placeholder {1}: op.rounds
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "{0}% pick · {1}R"
+msgstr "{0}% pick · {1}R"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "You"
+msgstr "You"
+
+#: packages/ui/src/features/landing/stats-banner.tsx
+msgid "Matches played"
+msgstr "Matches played"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Dedicated Support"
+msgstr "Dedicated Support"
+
+#. placeholder {0}: map.order
+#. placeholder {1}: map.name
+#: packages/ui/src/features/match-detail/map-switcher.tsx
+msgid "Map {0}, {1}, {scorePart}"
+msgstr "Map {0}, {1}, {scorePart}"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "team"
+msgstr "team"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
+msgid "players signed up"
+msgstr "players signed up"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Stage / Group"
+msgstr "Stage / Group"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/draft-success-content.tsx
+msgid "Your signup may require organizer approval"
+msgstr "Your signup may require organizer approval"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Close profile actions menu"
+msgstr "Close profile actions menu"
+
+#: packages/ui/src/features/match-detail/match-top.tsx
+msgid "Series MVP"
+msgstr "Series MVP"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "10"
+msgstr "10"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "Remove all scheduled times for all stages"
+msgstr "Remove all scheduled times for all stages"
+
+#: packages/ui/src/features/stage/stage-skeletons.tsx
+msgid "Teams haven't been placed in this group. When the organizer finishes seeding, brackets, standings, and match schedules will appear here."
+msgstr "Teams haven't been placed in this group. When the organizer finishes seeding, brackets, standings, and match schedules will appear here."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "2K Rounds"
+msgstr "2K Rounds"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "Latest release"
+msgstr "Latest release"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "0,25€ / hour"
+msgstr "0,25€ / hour"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Round"
+msgstr "Round"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Update Schedule"
+msgstr "Update Schedule"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Validation"
+msgstr "Validation"
+
+#: packages/ui/src/features/match-detail/round-history.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Time"
+msgstr "Time"
+
+#: packages/ui/src/features/match-detail/round-history.tsx
+msgid "Objective"
+msgstr "Objective"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Add friend"
+msgstr "Add friend"
+
+#. placeholder {0}: i + 1
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Option {0}"
+msgstr "Option {0}"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Failed to update answers"
+msgstr "Failed to update answers"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/hub-stats-tab.tsx
+msgid "Play Hub matches to build your stats here. Detailed stats including MMR, win rates, and performance history will be available soon."
+msgstr "Play Hub matches to build your stats here. Detailed stats including MMR, win rates, and performance history will be available soon."
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Duration"
+msgstr "Duration"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "Submitting..."
+msgstr "Submitting..."
+
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Close team menu"
+msgstr "Close team menu"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Veteran"
+msgstr "Veteran"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Complete these requirements to sign up"
+msgstr "Complete these requirements to sign up"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{days}d ago"
+msgstr "{days}d ago"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "View the full match page"
+msgstr "View the full match page"
+
+#: packages/ui/src/modules/team/public-profile/matches/matches-content.tsx
+msgid "Failed to Load Matches"
+msgstr "Failed to Load Matches"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+msgid "<0>Preview</0> · This event is not published. Only organisation members can see this page."
+msgstr "<0>Preview</0> · This event is not published. Only organisation members can see this page."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "{groupCount} Groups"
+msgstr "{groupCount} Groups"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/matches/matches-boneyard.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Hub Matches"
+msgstr "Hub Matches"
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Failed to submit signup."
+msgstr "Failed to submit signup."
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Select how you play the game"
+msgstr "Select how you play the game"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "KOST %"
+msgstr "KOST %"
+
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+msgid "Go to match"
+msgstr "Go to match"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Draft details unavailable"
+msgstr "Draft details unavailable"
+
+#: packages/ui/src/features/match-detail/match-top.tsx
+msgid "MVP so far"
+msgstr "MVP so far"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Plans"
+msgstr "Plans"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Remove friend"
+msgstr "Remove friend"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "Show all"
+msgstr "Show all"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Community Support"
+msgstr "Community Support"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Add"
+msgstr "Add"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Drafts"
+msgstr "Drafts"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "You're searching for a match. Leave the queue to accept invites."
+msgstr "You're searching for a match. Leave the queue to accept invites."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-mobile-nav.tsx
+msgid "Event navigation"
+msgstr "Event navigation"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Broadcast overlays and integration tooling."
+msgstr "Broadcast overlays and integration tooling."
+
+#: packages/ui/src/features/match-detail/map-section.tsx
+msgid "This map hasn't been played yet."
+msgstr "This map hasn't been played yet."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Event Page"
+msgstr "Event Page"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+msgid "Discord Connection"
+msgstr "Discord Connection"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Friend actions"
+msgstr "Friend actions"
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Collapse sidebar"
+msgstr "Collapse sidebar"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "awaiting seeding"
+msgstr "awaiting seeding"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Search users, teams, orgs, events…"
+msgstr "Search users, teams, orgs, events…"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Conditional logic requires a paid plan."
+msgstr "Conditional logic requires a paid plan."
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "Solo Sign Up"
+msgstr "Solo Sign Up"
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "e.g. Tournament Bans, Hub Bans"
+msgstr "e.g. Tournament Bans, Hub Bans"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Legend"
+msgstr "Legend"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/no-teams-content.tsx
+msgid "Create a Team to Sign Up"
+msgstr "Create a Team to Sign Up"
+
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Main Lineup"
+msgstr "Main Lineup"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Not set"
+msgstr "Not set"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Waiting for more players to sign up."
+msgstr "Waiting for more players to sign up."
+
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "No matches to display yet."
+msgstr "No matches to display yet."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Remove lineup member"
+msgstr "Remove lineup member"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Play Days"
+msgstr "Play Days"
+
+#: packages/ui/src/features/stage/tournament-standings.tsx
+msgid "Pts"
+msgstr "Pts"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "AND"
+msgstr "AND"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Date"
+msgstr "Date"
+
+#. placeholder {0}: round.number
+#. placeholder {1}: winner.tag
+#. placeholder {2}: winConditionLabel(round.winCondition)
+#. placeholder {3}: round.bombsite
+#: packages/ui/src/features/match-detail/round-history.tsx
+msgid "Round {0}: {1} win by {2} on {3}"
+msgstr "Round {0}: {1} win by {2} on {3}"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Download"
+msgstr "Download"
+
+#: packages/ui/src/modules/event/schedule-page.tsx
+msgid "No matches found. Create stages and generate brackets first."
+msgstr "No matches found. Create stages and generate brackets first."
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "No release notes were provided for this build."
+msgstr "No release notes were provided for this build."
+
+#: packages/ui/src/features/landing/hub-leaderboard.tsx
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "Win"
+msgstr "Win"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Map vetoes and bans handled inside Strave."
+msgstr "Map vetoes and bans handled inside Strave."
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "All"
+msgstr "All"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "View all"
+msgstr "View all"
+
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "3rd Place"
+msgstr "3rd Place"
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Edit Answers"
+msgstr "Edit Answers"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Save Schedule"
+msgstr "Save Schedule"
+
+#: packages/ui/src/modules/core/navbar/reset-password-form.tsx
+msgid "Your Email"
+msgstr "Your Email"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Request lineup sync"
+msgstr "Request lineup sync"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Analyst"
+msgstr "Analyst"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Opening Kills"
+msgstr "Opening Kills"
+
+#: packages/ui/src/modules/organisation/public-profile/overview/events-section.tsx
+#: packages/ui/src/modules/team/public-profile/events/events-boneyard.tsx
+msgid "No Events Yet"
+msgstr "No Events Yet"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Planned scope"
+msgstr "Planned scope"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Entry Fee"
+msgstr "Entry Fee"
+
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "Quarterfinal"
+msgstr "Quarterfinal"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Your team needs at least {MIN_MAIN_SLOTS} players ({playerCount}/{MIN_MAIN_SLOTS}). Teams that don't meet this requirement before the organizer starts the event will be disqualified."
+msgstr "Your team needs at least {MIN_MAIN_SLOTS} players ({playerCount}/{MIN_MAIN_SLOTS}). Teams that don't meet this requirement before the organizer starts the event will be disqualified."
+
+#: packages/ui/src/modules/core/navbar/authenticated-user-menu.tsx
+msgid "Logout"
+msgstr "Logout"
+
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Veto"
+msgstr "Veto"
+
+#. placeholder {0}: teamA.name
+#. placeholder {1}: teamB.name
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+msgid "Preview of match between {0} and {1}"
+msgstr "Preview of match between {0} and {1}"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-mobile-nav.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+msgid "Information"
+msgstr "Information"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Choose whether to update only this event, apply the same change across all registered events, or cancel."
+msgstr "Choose whether to update only this event, apply the same change across all registered events, or cancel."
+
+#: packages/ui/src/modules/organisation/public-profile/overview/events-section.tsx
+msgid "This organisation hasn't published any events yet."
+msgstr "This organisation hasn't published any events yet."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Priority Support"
+msgstr "Priority Support"
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "Sync"
+msgstr "Sync"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Description"
+msgstr "Description"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Quick Links"
+msgstr "Quick Links"
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Evidence"
+msgstr "Evidence"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "Back to landing"
+msgstr "Back to landing"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{hours}h ago"
+msgstr "{hours}h ago"
+
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "Protest ongoing"
+msgstr "Protest ongoing"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Suggested"
+msgstr "Suggested"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "(optional)"
+msgstr "(optional)"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "No matches yet - awaiting seeding"
+msgstr "No matches yet - awaiting seeding"
+
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+msgid "Grand Final G{gameNumber}"
+msgstr "Grand Final G{gameNumber}"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Change"
+msgstr "Change"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/[groupSlug]/group-page-client.tsx
+msgid "Search teams…"
+msgstr "Search teams…"
+
+#: packages/ui/src/features/stage/tournament-standings.tsx
+msgid "RD"
+msgstr "RD"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Custom Questions"
+msgstr "Custom Questions"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} contains \"{value}\""
+msgstr "{label} contains \"{value}\""
+
+#: packages/ui/src/features/stage/swiss-bracket-view.tsx
+msgid "Swiss rounds will appear here once the bracket starts."
+msgstr "Swiss rounds will appear here once the bracket starts."
+
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "Loss"
+msgstr "Loss"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "No teams have signed up yet."
+msgstr "No teams have signed up yet."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "Level"
+msgstr "Level"
+
+#: apps/web/src/app/[locale]/(public)/matches/[matchId]/page.tsx
+msgid "The match ID format is invalid. Please check the URL and try again."
+msgstr "The match ID format is invalid. Please check the URL and try again."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Discord"
+msgstr "Discord"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "Main lineup"
+msgstr "Main lineup"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Placeholder text (optional)"
+msgstr "Placeholder text (optional)"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Other Prize"
+msgstr "Other Prize"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Additional instructions (optional)"
+msgstr "Additional instructions (optional)"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Tournament Format"
+msgstr "Tournament Format"
+
+#: packages/ui/src/features/match-detail/map-switcher.tsx
+msgid "All maps"
+msgstr "All maps"
+
+#. placeholder {0}: formatDateDisplay(startDateObj!, prefs.dateFormat)
+#. placeholder {1}: prefs.timeFormat === "12h" ? formatTime( createTimestamp( startDate, firstStageStartTime, timezone, ), prefs.timeFormat, prefs.timezone, ) : firstStageStartTime
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "{0} at {1} · {timeBetween}min between rounds"
+msgstr "{0} at {1} · {timeBetween}min between rounds"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Lineup locked"
+msgstr "Lineup locked"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Professional"
+msgstr "Professional"
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "Verified players only"
+msgstr "Verified players only"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Platform mapban"
+msgstr "Platform mapban"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Close team selector"
+msgstr "Close team selector"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Signups are closed. Follow the draft board as captains fill their rosters."
+msgstr "Signups are closed. Follow the draft board as captains fill their rosters."
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Choose a group to participate in"
+msgstr "Choose a group to participate in"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Withdraw"
+msgstr "Withdraw"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "Surprise me"
+msgstr "Surprise me"
+
+#: packages/ui/src/modules/organisation/public-profile/members/members-list.tsx
+msgid "Member"
+msgstr "Member"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Remove Player"
+msgstr "Remove Player"
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "Live sync with the website and across all your devices."
+msgstr "Live sync with the website and across all your devices."
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Online"
+msgstr "Online"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "was removed from the team"
+msgstr "was removed from the team"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Min length"
+msgstr "Min length"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Banned until"
+msgstr "Banned until"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "You're approved and waiting in the player pool."
+msgstr "You're approved and waiting in the player pool."
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Skill"
+msgstr "Skill"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Search by name or username..."
+msgstr "Search by name or username..."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Support tickets for organisers and participants."
+msgstr "Support tickets for organisers and participants."
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Delete Entry"
+msgstr "Delete Entry"
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "Hit ready, get a balanced lobby, play. The hub handles seeding, verification, and results so the only thing left to argue about is the call."
+msgstr "Hit ready, get a balanced lobby, play. The hub handles seeding, verification, and results so the only thing left to argue about is the call."
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "Signing up..."
+msgstr "Signing up..."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} is empty"
+msgstr "{label} is empty"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "For leagues that want to use the full Strave suite"
+msgstr "For leagues that want to use the full Strave suite"
+
+#: packages/ui/src/modules/core/navbar/workspace-items.tsx
+msgid "View All"
+msgstr "View All"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Ticket system"
+msgstr "Ticket system"
+
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "My Matches"
+msgstr "My Matches"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Registration Answers"
+msgstr "Registration Answers"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Add to favorites"
+msgstr "Add to favorites"
+
+#. placeholder {0}: stats.pending
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "{0, plural, one {# player awaiting approval} other {# players awaiting approval}}"
+msgstr "{0, plural, one {# player awaiting approval} other {# players awaiting approval}}"
+
+#. placeholder {0}: requests.incoming.length
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Friend requests ({0})"
+msgstr "Friend requests ({0})"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Rounds Played"
+msgstr "Rounds Played"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Permanent"
+msgstr "Permanent"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+msgid "Your registration is pending approval"
+msgstr "Your registration is pending approval"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Amount each team pays to register."
+msgstr "Amount each team pays to register."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Copied!"
+msgstr "Copied!"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Set role to Staff"
+msgstr "Set role to Staff"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+msgid "No description provided by the organizer."
+msgstr "No description provided by the organizer."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "For new organisers and everyone who wants to use Strave"
+msgstr "For new organisers and everyone who wants to use Strave"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Qualifier stage - runs on a single day. All matches in each round run in parallel."
+msgstr "Qualifier stage - runs on a single day. All matches in each round run in parallel."
+
+#. placeholder {0}: organisationData.memberCount
+#. placeholder {0}: team.memberCount
+#. placeholder {0}: teamData.memberCount
+#: packages/ui/src/features/home/home-content.tsx
+#: packages/ui/src/modules/organisation/public-profile/members/members-list.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+msgid "{0, plural, one {# member} other {# members}}"
+msgstr "{0, plural, one {# member} other {# members}}"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "All inputs"
+msgstr "All inputs"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "Additional Information"
+msgstr "Additional Information"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Try a different name, or filter by type with u/ t/ o/ e/."
+msgstr "Try a different name, or filter by type with u/ t/ o/ e/."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Your signup was not approved."
+msgstr "Your signup was not approved."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Personal stats"
+msgstr "Personal stats"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "You are all caught up."
+msgstr "You are all caught up."
+
+#. placeholder {0}: notifications.length
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "{0, plural, one {# notification} other {# notifications}}"
+msgstr "{0, plural, one {# notification} other {# notifications}}"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Open a Ticket"
+msgstr "Open a Ticket"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/not-authenticated-content.tsx
+msgid "You need to sign in before you can register for this event."
+msgstr "You need to sign in before you can register for this event."
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Payment Link (optional)"
+msgstr "Payment Link (optional)"
+
+#: packages/ui/src/features/download/download-page.tsx
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "Download for Windows"
+msgstr "Download for Windows"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Failed to cancel friend request"
+msgstr "Failed to cancel friend request"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "Matchdays"
+msgstr "Matchdays"
+
+#. placeholder {0}: stage.bestOf
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "BO{0}"
+msgstr "BO{0}"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Map Bans"
+msgstr "Map Bans"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Pattern"
+msgstr "Pattern"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "{maxTeams} teams max"
+msgstr "{maxTeams} teams max"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Broadcast ingest billed per hour."
+msgstr "Broadcast ingest billed per hour."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Captains are drafting players to their teams."
+msgstr "Captains are drafting players to their teams."
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "Windows 10/11 · 64-bit · signed build"
+msgstr "Windows 10/11 · 64-bit · signed build"
+
+#: packages/ui/src/modules/core/navbar/workspace-section.tsx
+msgid "Loading your workspace…"
+msgstr "Loading your workspace…"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+msgid "Organisation analytics dashboard loading - capture name <0>org-analytics-dashboard</0>."
+msgstr "Organisation analytics dashboard loading - capture name <0>org-analytics-dashboard</0>."
+
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+msgid "Organisation banner"
+msgstr "Organisation banner"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Unknown Question"
+msgstr "Unknown Question"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Hidden player"
+msgstr "Hidden player"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "All regions"
+msgstr "All regions"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Hide validation"
+msgstr "Hide validation"
+
+#: packages/ui/src/modules/event/schedule-page.tsx
+msgid "Click on a day to schedule matches, or use Auto-Schedule to distribute them automatically."
+msgstr "Click on a day to schedule matches, or use Auto-Schedule to distribute them automatically."
+
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+msgid "You'll receive updates about the event"
+msgstr "You'll receive updates about the event"
+
+#. placeholder {0}: event.teamCount
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Cancelled · {0} teams"
+msgstr "Cancelled · {0} teams"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+msgid "Event sections"
+msgstr "Event sections"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Edit Profile"
+msgstr "Edit Profile"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Add Friend"
+msgstr "Add Friend"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+msgid "Shared Suspense fallback fixtures used by app route boundaries."
+msgstr "Shared Suspense fallback fixtures used by app route boundaries."
+
+#: packages/ui/src/modules/event/signup-dialog/steps/role-step.tsx
+msgid "Select your preferred role"
+msgstr "Select your preferred role"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Add a friend by username…"
+msgstr "Add a friend by username…"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Custom access roles and Permissions"
+msgstr "Custom access roles and Permissions"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "Both teams see the same detected match page."
+msgstr "Both teams see the same detected match page."
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Error message (optional)"
+msgstr "Error message (optional)"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+#: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
+#: packages/ui/src/features/stage/round-matches.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Completed"
+msgstr "Completed"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "All Events"
+msgstr "All Events"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Idle"
+msgstr "Idle"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "No current bans or warnings"
+msgstr "No current bans or warnings"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Change Request"
+msgstr "Change Request"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/draft-success-content.tsx
+msgid "Check the Draft tab for updates on your status"
+msgstr "Check the Draft tab for updates on your status"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Requirements"
+msgstr "Requirements"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Live billing for events, seats, production, and support."
+msgstr "Live billing for events, seats, production, and support."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Plants %"
+msgstr "Plants %"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Blocks signup & queue"
+msgstr "Blocks signup & queue"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Tournaments for you"
+msgstr "Tournaments for you"
+
+#: packages/ui/src/modules/team/public-profile/matches/matches-content.tsx
+msgid "Unable to load match history. Please try again later."
+msgstr "Unable to load match history. Please try again later."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Move up"
+msgstr "Move up"
+
+#: packages/ui/src/features/stage/tournament-standings.tsx
+msgid "BH"
+msgstr "BH"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "joined the team"
+msgstr "joined the team"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Withdraw Registration"
+msgstr "Withdraw Registration"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Billing"
+msgstr "Billing"
+
+#: packages/ui/src/modules/organisation/public-profile/members/members-list.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "No @handle yet"
+msgstr "No @handle yet"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Warning"
+msgstr "Warning"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "The draft is finished. Teams are set for the bracket."
+msgstr "The draft is finished. Teams are set for the bracket."
+
+#. placeholder {0}: event.teamCount
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Awaiting start · {0} teams registered"
+msgstr "Awaiting start · {0} teams registered"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Search for a page, user, team, or event to pin as a quick link"
+msgstr "Search for a page, user, team, or event to pin as a quick link"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Showing demo data - tournament stats integration coming soon"
+msgstr "Showing demo data - tournament stats integration coming soon"
+
+#. placeholder {0}: offlineFriends.length
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Offline · {0}"
+msgstr "Offline · {0}"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Preview"
+msgstr "Preview"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Select"
+msgstr "Select"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Search failed"
+msgstr "Search failed"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "Unschedule ({scheduledCount})"
+msgstr "Unschedule ({scheduledCount})"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Privacy"
+msgstr "Privacy"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Quick Link"
+msgstr "Quick Link"
+
+#. placeholder {0}: banlist.stats.activeBans
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "{0} active"
+msgstr "{0} active"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "SRT streaming"
+msgstr "SRT streaming"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Starter"
+msgstr "Starter"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "SAML or OIDC sign-in for organisation members."
+msgstr "SAML or OIDC sign-in for organisation members."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Ranked Stats"
+msgstr "Ranked Stats"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "5€ / mo included"
+msgstr "5€ / mo included"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "No validation rules available for this question type."
+msgstr "No validation rules available for this question type."
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Search opponent, team, or event..."
+msgstr "Search opponent, team, or event..."
+
+#. placeholder {0}: visibleMatches.length - 3
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "+{0} more"
+msgstr "+{0} more"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Qualifier stage - runs on a single day. All matches in each round run in parallel. Schedule config is saved on the group and applied when teams are seeded."
+msgstr "Qualifier stage - runs on a single day. All matches in each round run in parallel. Schedule config is saved on the group and applied when teams are seeded."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "Loading more teams..."
+msgstr "Loading more teams..."
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "What is this ban list used for?"
+msgstr "What is this ban list used for?"
+
+#: packages/ui/src/modules/team/public-profile/overview/event-lineup-banner.tsx
+msgid "You are viewing the Event lineup for <0>{orgName} | {eventName}</0>. <1>Click here to see the original team</1>"
+msgstr "You are viewing the Event lineup for <0>{orgName} | {eventName}</0>. <1>Click here to see the original team</1>"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Premium"
+msgstr "Premium"
+
+#. placeholder {0}: preview.length
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "{0, plural, one {Schedule # match} other {Schedule # matches}}"
+msgstr "{0, plural, one {Schedule # match} other {Schedule # matches}}"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/navbar/menu-items.tsx
+msgid "My Organisations"
+msgstr "My Organisations"
+
+#: packages/ui/src/composites/error-page.tsx
+msgid "Access denied"
+msgstr "Access denied"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Scroll teams left"
+msgstr "Scroll teams left"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "<0>Multi-group signup:</0> teams may register into specific groups. Cross-group ranking uses the stage point system. Open the <1>Standing</1> tab when it is available."
+msgstr "<0>Multi-group signup:</0> teams may register into specific groups. Cross-group ranking uses the stage point system. Open the <1>Standing</1> tab when it is available."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/signups-tab.tsx
+msgid "Searching…"
+msgstr "Searching…"
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Update your registration answers"
+msgstr "Update your registration answers"
+
+#. placeholder {0}: xpRemaining.toLocaleString()
+#. placeholder {1}: progress.level + 1
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "{0} to Level {1}"
+msgstr "{0} to Level {1}"
+
+#. placeholder {0}: onlineFriends.length
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "{0} online"
+msgstr "{0} online"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "3K Rounds"
+msgstr "3K Rounds"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Set role to Stand-in"
+msgstr "Set role to Stand-in"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Conditional"
+msgstr "Conditional"
+
+#. placeholder {0}: selectedGroupNames.length
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "{0, plural, one {Group} other {Groups}}"
+msgstr "{0, plural, one {Group} other {Groups}}"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Launch status"
+msgstr "Launch status"
+
+#: packages/ui/src/modules/core/navbar/authenticated-user-menu.tsx
+msgid "{planLabel} Plan"
+msgstr "{planLabel} Plan"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Hub"
+msgstr "Hub"
+
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+#: packages/ui/src/features/stage/singleelim-bracket-view.tsx
+msgid "Final"
+msgstr "Final"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Failed to sign up for draft."
+msgstr "Failed to sign up for draft."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "Opening Impact"
+msgstr "Opening Impact"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "0,10€ / hour"
+msgstr "0,10€ / hour"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Report Player"
+msgstr "Report Player"
+
+#: packages/ui/src/modules/organisation/public-profile/overview/about-card.tsx
+#: packages/ui/src/modules/team/public-profile/overview/about-card.tsx
+msgid "Founded"
+msgstr "Founded"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "Error"
+msgstr "Error"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/activity-card.tsx
+msgid "Last 4 months"
+msgstr "Last 4 months"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Team stats"
+msgstr "Team stats"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "Try another filter or browse all events."
+msgstr "Try another filter or browse all events."
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Select stage"
+msgstr "Select stage"
 
 #: packages/ui/src/components/i18n-spike-text.tsx
-msgid "This string lives in the shared UI package."
-msgstr "This string lives in the shared UI package."
+#~ msgid "This string lives in the shared UI package."
+#~ msgstr "This string lives in the shared UI package."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Opening / Entry"
+msgstr "Opening / Entry"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Join the draft"
+msgstr "Join the draft"
+
+#: packages/ui/src/modules/event/schedule-page.tsx
+msgid "This stage"
+msgstr "This stage"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+msgid "Connect your primary Ubisoft account to verify your identity"
+msgstr "Connect your primary Ubisoft account to verify your identity"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Kill Quality"
+msgstr "Kill Quality"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Unschedule"
+msgstr "Unschedule"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Total Prize Pool"
+msgstr "Total Prize Pool"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Essential"
+msgstr "Essential"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Your pick"
+msgstr "Your pick"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Core limits"
+msgstr "Core limits"
+
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "All Statuses"
+msgstr "All Statuses"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Users"
+msgstr "Users"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Remove from favorites"
+msgstr "Remove from favorites"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "A question cannot depend on one that comes after it."
+msgstr "A question cannot depend on one that comes after it."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Remove"
+msgstr "Remove"
+
+#. placeholder {0}: round.number
+#. placeholder {1}: winner.tag
+#. placeholder {2}: winConditionLabel(round.winCondition)
+#: packages/ui/src/features/match-detail/round-history.tsx
+msgid "Round {0}: {1} win by {2}"
+msgstr "Round {0}: {1} win by {2}"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Schedule saved - awaiting seeding"
+msgstr "Schedule saved - awaiting seeding"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+msgid "Ubisoft Connection"
+msgstr "Ubisoft Connection"
+
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Queue for hub"
+msgstr "Queue for hub"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "moved to {newRole}"
+msgstr "moved to {newRole}"
 
 #: apps/web/src/app/[locale]/i18n-spike/page.tsx
-msgid "This paragraph is rendered in a server component with a <0>nested tag</0> inside."
-msgstr "This paragraph is rendered in a server component with a <0>nested tag</0> inside."
+#~ msgid "This paragraph is rendered in a server component with a <0>nested tag</0> inside."
+#~ msgstr "This paragraph is rendered in a server component with a <0>nested tag</0> inside."
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+#: packages/ui/src/features/landing/landing-navbar.tsx
+#: packages/ui/src/modules/core/footer/footer.tsx
+#: packages/ui/src/modules/core/navbar/menu-items.tsx
+#: packages/ui/src/modules/core/navbar/mobile-links.tsx
+msgid "Play"
+msgstr "Play"
+
+#: packages/ui/src/features/landing/landing-navbar.tsx
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Friends"
+msgstr "Friends"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Describe the reason for this ban..."
+msgstr "Describe the reason for this ban..."
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Could not decline request"
+msgstr "Could not decline request"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "Oceania"
+msgstr "Oceania"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Save"
+msgstr "Save"
+
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+msgid "Go to the Match to play"
+msgstr "Go to the Match to play"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Could not decline invite"
+msgstr "Could not decline invite"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Leaderboard"
+msgstr "Leaderboard"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Copy username"
+msgstr "Copy username"
+
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Ongoing Events"
+msgstr "Ongoing Events"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Your registration must be approved before you can check in."
+msgstr "Your registration must be approved before you can check in."
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "Registered {registeredLabel}"
+msgstr "Registered {registeredLabel}"
+
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Upcoming Events"
+msgstr "Upcoming Events"
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Open tournaments and ladders"
+msgstr "Open tournaments and ladders"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Time between rounds (minutes)"
+msgstr "Time between rounds (minutes)"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Updating existing schedule"
+msgstr "Updating existing schedule"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} equals \"{value}\""
+msgstr "{label} equals \"{value}\""
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Required"
+msgstr "Required"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+msgid "You are currently banned from this event and cannot sign up."
+msgstr "You are currently banned from this event and cannot sign up."
+
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "This team currently has an active team-level ban and cannot register for this event."
+msgstr "This team currently has an active team-level ban and cannot register for this event."
+
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Sign up for tournaments to see your events here."
+msgstr "Sign up for tournaments to see your events here."
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "Starting soon"
+msgstr "Starting soon"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid "Events"
+msgstr "Events"
+
+#. placeholder {0}: names.join(" · ")
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "Coach: {0}"
+msgstr "Coach: {0}"
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Expand sidebar"
+msgstr "Expand sidebar"
+
+#. placeholder {0}: year ? `${year} ` : ""
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "© {0}Strave. All rights reserved."
+msgstr "© {0}Strave. All rights reserved."
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Add Pack"
+msgstr "Add Pack"
+
+#. placeholder {0}: p.fromPosition
+#. placeholder {1}: ordinalSuffix(p.fromPosition)
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "{0}{1} place"
+msgstr "{0}{1} place"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Select type"
+msgstr "Select type"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "plants"
+msgstr "plants"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Add Ban"
+msgstr "Add Ban"
+
+#: packages/ui/src/features/landing/client-window.tsx
+#: packages/ui/src/modules/core/navbar/authenticated-user-menu.tsx
+msgid "Settings"
+msgstr "Settings"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Created bans and warnings will appear here."
+msgstr "Created bans and warnings will appear here."
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Select a team to sign up with"
+msgstr "Select a team to sign up with"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Start Times"
+msgstr "Start Times"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Coming-soon limits for rosters, stats, and captain workflows."
+msgstr "Coming-soon limits for rosters, stats, and captain workflows."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "5€ per 1M"
+msgstr "5€ per 1M"
+
+#: packages/ui/src/features/stage/tournament-standings.tsx
+msgid "SoS"
+msgstr "SoS"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "What's New"
+msgstr "What's New"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Clear filters"
+msgstr "Clear filters"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Status"
+msgstr "Status"
+
+#: packages/ui/src/features/stage/swiss-bracket-view.tsx
+msgid "ADVANCING"
+msgstr "ADVANCING"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "{oldRole} to {newRole}"
+msgstr "{oldRole} to {newRole}"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Pending"
+msgstr "Pending"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Add questions to your signup flow. Team info and group selection are collected automatically."
+msgstr "Add questions to your signup flow. Team info and group selection are collected automatically."
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Signup Flow Locked"
+msgstr "Signup Flow Locked"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+msgid "Make sure to check in before the event starts"
+msgstr "Make sure to check in before the event starts"
+
+#: packages/ui/src/modules/core/navbar/reset-password-form.tsx
+msgid "Enter your email to receive a password reset link."
+msgstr "Enter your email to receive a password reset link."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Registration Details"
+msgstr "Registration Details"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Revoke Ban"
+msgstr "Revoke Ban"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+#: packages/ui/src/modules/organisation/public-profile/overview/about-card.tsx
+#: packages/ui/src/modules/team/public-profile/overview/about-card.tsx
+msgid "Region"
+msgstr "Region"
+
+#. placeholder {0}: sideLabel(ban.side)
+#: packages/ui/src/features/match-detail/map-section.tsx
+msgid "{name} · {0} ban"
+msgstr "{name} · {0} ban"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "Left"
+msgstr "Left"
+
+#: packages/ui/src/features/stage/stage-skeletons.tsx
+msgid "This stage isn't seeded yet"
+msgstr "This stage isn't seeded yet"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "By signing up, you agree to participate in the draft. Captains will select you for their team."
+msgstr "By signing up, you agree to participate in the draft. Captains will select you for their team."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/matches/matches-content.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/overview-content.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/stats-content.tsx
+msgid "The user \"{username}\" could not be found."
+msgstr "The user \"{username}\" could not be found."
+
+#: packages/ui/src/modules/event/signup-dialog/steps/draft-confirmation-step.tsx
+msgid "Waitlist possible"
+msgstr "Waitlist possible"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+msgid "Prize"
+msgstr "Prize"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "Waiting"
+msgstr "Waiting"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Failed to decline friend request"
+msgstr "Failed to decline friend request"
+
+#: packages/ui/src/components/sidebar.tsx
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Invite declined"
+msgstr "Invite declined"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/features/match-detail/team-lineups.tsx
+#: packages/ui/src/features/match/match-preview-dialog.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Staff"
+msgstr "Staff"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/general-tab.tsx
+#: packages/ui/src/modules/organisation/public-profile/overview/about-card.tsx
+#: packages/ui/src/modules/team/public-profile/overview/about-card.tsx
+msgid "About"
+msgstr "About"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Could not join party"
+msgstr "Could not join party"
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "Open this page from a draft match or standings link so Strave knows which event lineup to show."
+msgstr "Open this page from a draft match or standings link so Strave knows which event lineup to show."
+
+#. placeholder {0}: matches.length
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/recent-performance-card.tsx
+msgid "{0, plural, one {Last # match} other {Last # matches}}"
+msgstr "{0, plural, one {Last # match} other {Last # matches}}"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Event operations"
+msgstr "Event operations"
+
+#: packages/ui/src/composites/event-card.tsx
+msgid "Playing as"
+msgstr "Playing as"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "players"
+msgstr "players"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+msgid "Notification actions"
+msgstr "Notification actions"
+
+#: packages/ui/src/components/search-input.tsx
+msgid "Clear search"
+msgstr "Clear search"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Quantity"
+msgstr "Quantity"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "The Strave desktop client keeps your matches, results, and stats in sync automatically."
+msgstr "The Strave desktop client keeps your matches, results, and stats in sync automatically."
+
+#: packages/ui/src/modules/core/navbar/reset-password-form.tsx
+msgid "Back to login"
+msgstr "Back to login"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Could not remove friend"
+msgstr "Could not remove friend"
+
+#: packages/ui/src/features/match-detail/round-history.tsx
+msgid "Elimination"
+msgstr "Elimination"
+
+#: packages/ui/src/modules/core/navbar/menu-items.tsx
+#: packages/ui/src/modules/core/navbar/mobile-links.tsx
+msgid "Profile"
+msgstr "Profile"
+
+#. placeholder {0}: match.opponent
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "vs {0}"
+msgstr "vs {0}"
+
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+msgid "Open organisation menu"
+msgstr "Open organisation menu"
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "Event lineup"
+msgstr "Event lineup"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Legal"
+msgstr "Legal"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Request declined"
+msgstr "Request declined"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/matches/matches-boneyard.tsx
+msgid "Hub match history will appear here once the Hub launches."
+msgstr "Hub match history will appear here once the Hub launches."
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "Entry"
+msgstr "Entry"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Reason"
+msgstr "Reason"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Leave and join"
+msgstr "Leave and join"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "Play your match and the scoreboard fills in on its own. Strave reads the result, the rounds, and every player's line, then posts the match page for both teams."
+msgstr "Play your match and the scoreboard fills in on its own. Strave reads the result, the rounds, and every player's line, then posts the match page for both teams."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Add Player"
+msgstr "Add Player"
+
+#: packages/ui/src/features/stage/round-matches.tsx
+msgid "No matches in this group yet."
+msgstr "No matches in this group yet."
+
+#. placeholder {0}: i + 1
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Rule {0}"
+msgstr "Rule {0}"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/features/landing/hub-leaderboard.tsx
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+#: packages/ui/src/features/match-detail/team-lineups.tsx
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Player"
+msgstr "Player"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Checked in"
+msgstr "Checked in"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "Stats that count themselves."
+msgstr "Stats that count themselves."
+
+#: packages/ui/src/modules/event/signup-dialog/steps/question-step.tsx
+msgid "+1 (555) 123-4567"
+msgstr "+1 (555) 123-4567"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "1€ per additional seat"
+msgstr "1€ per additional seat"
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "deaths"
+msgstr "deaths"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Search player"
+msgstr "Search player"
+
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Cancelled"
+msgstr "Cancelled"
+
+#. placeholder {0}: team.tag
+#: packages/ui/src/features/match-detail/veto-history.tsx
+msgid "{0} bans"
+msgstr "{0} bans"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/[groupSlug]/group-page-client.tsx
+msgid "Follow placement in the Bracket tab - double elimination order is shown there."
+msgstr "Follow placement in the Bracket tab - double elimination order is shown there."
+
+#. placeholder {0}: summary.roundsPlayed
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "{0, plural, one {# round} other {# rounds}}"
+msgstr "{0, plural, one {# round} other {# rounds}}"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Impact Stats"
+msgstr "Impact Stats"
+
+#: packages/ui/src/features/discover/discover-page.tsx
+msgid "EMEA"
+msgstr "EMEA"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/member-info-card.tsx
+msgid "No status set"
+msgstr "No status set"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/matches/matches-boneyard.tsx
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/hub-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/matches/matches-boneyard.tsx
+msgid "Coming Soon"
+msgstr "Coming Soon"
+
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+msgid "Close organisation menu"
+msgstr "Close organisation menu"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Banned"
+msgstr "Banned"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Scouting"
+msgstr "Scouting"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Production"
+msgstr "Production"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{name} will be removed from this event lineup."
+msgstr "{name} will be removed from this event lineup."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/recent-performance-card.tsx
+#: packages/ui/src/features/stage/tournament-standings.tsx
+msgid "Record"
+msgstr "Record"
+
+#. placeholder {0}: teams[0]
+#. placeholder {1}: teams[1]
+#: packages/ui/src/features/stage/round-matches.tsx
+msgid "{0} vs {1}"
+msgstr "{0} vs {1}"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Friend request sent!"
+msgstr "Friend request sent!"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/matches/matches-boneyard.tsx
+#: packages/ui/src/modules/team/public-profile/matches/matches-boneyard.tsx
+msgid "Tournament and league match history coming soon."
+msgstr "Tournament and league match history coming soon."
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Pending approval"
+msgstr "Pending approval"
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "Manage"
+msgstr "Manage"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/not-found.tsx
+msgid "This stage does not exist or is no longer available."
+msgstr "This stage does not exist or is no longer available."
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Unlisted"
+msgstr "Unlisted"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Member since {memberSince}"
+msgstr "Member since {memberSince}"
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "Automatically collect match results and stats from your games."
+msgstr "Automatically collect match results and stats from your games."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-header.tsx
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "General"
+msgstr "General"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "You need to sign in before you can sign up for this draft event."
+msgstr "You need to sign in before you can sign up for this draft event."
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "{label} > {value}"
+msgstr "{label} > {value}"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "Download Strave."
+msgstr "Download Strave."
+
+#: packages/ui/src/modules/organisation/public-profile/members/members-list.tsx
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+msgid "Members"
+msgstr "Members"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/confirmation-step.tsx
+msgid "Players with active event bans are not added to the event team during signup."
+msgstr "Players with active event bans are not added to the event team during signup."
+
+#: packages/ui/src/features/landing/stats-banner.tsx
+msgid "By the numbers"
+msgstr "By the numbers"
+
+#. placeholder {0}: user.username || "user"
+#: packages/ui/src/modules/core/navbar/authenticated-user-menu.tsx
+msgid "{0} avatar"
+msgstr "{0} avatar"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Value"
+msgstr "Value"
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "The Strave desktop client runs light and keeps your matches, results, and stats moving without you lifting a finger."
+msgstr "The Strave desktop client runs light and keeps your matches, results, and stats moving without you lifting a finger."
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Building stuff for the eSports."
+msgstr "Building stuff for the eSports."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "API requests"
+msgstr "API requests"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "5 included"
+msgstr "5 included"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Failed to check in"
+msgstr "Failed to check in"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Trade Kill Ratio"
+msgstr "Trade Kill Ratio"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Make captain"
+msgstr "Make captain"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Your tournaments"
+msgstr "Your tournaments"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Draft in progress"
+msgstr "Draft in progress"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Low-latency ingest billed per hour."
+msgstr "Low-latency ingest billed per hour."
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Pages"
+msgstr "Pages"
+
+#: packages/ui/src/features/match-detail/map-switcher.tsx
+msgid "not played yet"
+msgstr "not played yet"
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Edit Groups"
+msgstr "Edit Groups"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "This will remove the scheduled time from this match."
+msgstr "This will remove the scheduled time from this match."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "If you want to support Strave and want to start Broadcasting"
+msgstr "If you want to support Strave and want to start Broadcasting"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Add choice or number questions before this one to use conditions."
+msgstr "Add choice or number questions before this one to use conditions."
+
+#: packages/ui/src/features/match-detail/scoreboard.tsx
+msgid "Clutch"
+msgstr "Clutch"
+
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Choose which groups to participate in"
+msgstr "Choose which groups to participate in"
+
+#: packages/ui/src/features/landing/feature-stats.tsx
+msgid "View full match"
+msgstr "View full match"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Teams in event"
+msgstr "Teams in event"
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "Failed to sign up."
+msgstr "Failed to sign up."
+
+#: apps/web/src/app/[locale]/(public)/soon/page.tsx
+msgid "Back to home"
+msgstr "Back to home"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "No open tickets"
+msgstr "No open tickets"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Set Team"
+msgstr "Set Team"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "No archived entries"
+msgstr "No archived entries"
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Favorites"
+msgstr "Favorites"
+
+#: packages/ui/src/modules/core/navbar/workspace-empty-state.tsx
+msgid "Org"
+msgstr "Org"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Selected player"
+msgstr "Selected player"
+
+#: apps/web/src/app/[locale]/(public)/t/draft/page.tsx
+msgid "Open event"
+msgstr "Open event"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+msgid "Failed to send friend request"
+msgstr "Failed to send friend request"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Clear"
+msgstr "Clear"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/activity-card.tsx
+msgid "Matches played in the last few months will appear here."
+msgstr "Matches played in the last few months will appear here."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Impact Kill Ratio ATK"
+msgstr "Impact Kill Ratio ATK"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/group-selection-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/input-type-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/question-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/role-step.tsx
+#: packages/ui/src/modules/event/signup-dialog/steps/team-selection-step.tsx
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Continue"
+msgstr "Continue"
 
 #: apps/web/src/app/[locale]/i18n-spike/spike-client-counter.tsx
-msgid "Clicked {count} times"
-msgstr "Clicked {count} times"
+#~ msgid "Clicked {count} times"
+#~ msgstr "Clicked {count} times"
+
+#: packages/ui/src/features/stage/standing-point-rules-card.tsx
+msgid "Points per match"
+msgstr "Points per match"
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "Anti-smurf checks keep lobbies honest."
+msgstr "Anti-smurf checks keep lobbies honest."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Impact Kill Ratio DEF"
+msgstr "Impact Kill Ratio DEF"
+
+#. placeholder {0}: stats.unscheduled
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "{0, plural, one {# unscheduled match} other {# unscheduled matches}}"
+msgstr "{0, plural, one {# unscheduled match} other {# unscheduled matches}}"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Check In"
+msgstr "Check In"
+
+#: packages/ui/src/modules/team/public-profile/matches/matches-boneyard.tsx
+msgid "Scrims"
+msgstr "Scrims"
+
+#: packages/ui/src/modules/core/navbar/notification-inbox.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "just now"
+msgstr "just now"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Add a position to start building the prize pool."
+msgstr "Add a position to start building the prize pool."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "How this stage works"
+msgstr "How this stage works"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Add someone from your default team lineup into this event lineup."
+msgstr "Add someone from your default team lineup into this event lineup."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+msgid "4K Rounds"
+msgstr "4K Rounds"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Pick"
+msgstr "Pick"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Single sign-on"
+msgstr "Single sign-on"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Could not send request"
+msgstr "Could not send request"
+
+#: packages/ui/src/modules/team/team-events.tsx
+msgid "Past Events"
+msgstr "Past Events"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Input"
+msgstr "Input"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Opening Deaths"
+msgstr "Opening Deaths"
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "Saving..."
+msgstr "Saving..."
+
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+msgid "This will remove your team from the event entirely."
+msgstr "This will remove your team from the event entirely."
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Parallel"
+msgstr "Parallel"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Coming-soon limits for profiles, stats, and replay history."
+msgstr "Coming-soon limits for profiles, stats, and replay history."
+
+#. placeholder {0}: event.roundNumber
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Round {0}"
+msgstr "Round {0}"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Support"
+msgstr "Support"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/activity-card.tsx
+msgid "Match Activity"
+msgstr "Match Activity"
+
+#: packages/ui/src/modules/core/navbar/authenticated-user-menu.tsx
+msgid "Upgrade to Premium"
+msgstr "Upgrade to Premium"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
+msgid "player signed up"
+msgstr "player signed up"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Pricing that scales with competition."
+msgstr "Pricing that scales with competition."
+
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+msgid "Add Quick Link"
+msgstr "Add Quick Link"
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Type at least 2 characters"
+msgstr "Type at least 2 characters"
+
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "All your matches and tournaments in one place."
+msgstr "All your matches and tournaments in one place."
+
+#: packages/ui/src/modules/team/public-profile/team-header.tsx
+msgid " - No skillgroup yet"
+msgstr " - No skillgroup yet"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{name} will be moved to Staff."
+msgstr "{name} will be moved to Staff."
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Only This Event"
+msgstr "Only This Event"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "Could not accept request"
+msgstr "Could not accept request"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "View all →"
+msgstr "View all →"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Custom included usage"
+msgstr "Custom included usage"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Show this question only when answers to previous questions match specific conditions."
+msgstr "Show this question only when answers to previous questions match specific conditions."
+
+#: packages/ui/src/features/landing/landing-navbar.tsx
+#: packages/ui/src/modules/core/navbar/logo.tsx
+msgid "Beta"
+msgstr "Beta"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/not-found.tsx
+msgid "Stage not found"
+msgstr "Stage not found"
+
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+msgid "You'll be entered individually. A connected primary Ubisoft account is required."
+msgstr "You'll be entered individually. A connected primary Ubisoft account is required."
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+#: packages/ui/src/modules/team/public-profile/overview/roster-card.tsx
+msgid "Lineup"
+msgstr "Lineup"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "Add a ban or warning to get started."
+msgstr "Add a ban or warning to get started."
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Create team"
+msgstr "Create team"
+
+#. placeholder {0}: event.name
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Manage your registration for {0}"
+msgstr "Manage your registration for {0}"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
+#: packages/ui/src/features/landing/feature-hub.tsx
+#: packages/ui/src/features/pricing/pricing-page.tsx
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Soon"
+msgstr "Soon"
+
+#: packages/ui/src/features/match-detail/map-switcher.tsx
+msgid "Overall stats across all maps"
+msgstr "Overall stats across all maps"
+
+#: packages/ui/src/components/search-input.tsx
+msgid "Search..."
+msgstr "Search..."
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "R6 Credits"
+msgstr "R6 Credits"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "Removed by <0/>"
+msgstr "Removed by <0/>"
+
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "No ban lists yet"
+msgstr "No ban lists yet"
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "AnswerOverflow"
+msgstr "AnswerOverflow"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Time between (minutes)"
+msgstr "Time between (minutes)"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/event-public-sidebar.tsx
+#: packages/ui/src/modules/event/signup-dialog/signup-dialog.tsx
+msgid "Manage Participation"
+msgstr "Manage Participation"
+
+#. placeholder {0}: selectedFilter.entry?.label ?? t`This stage`
+#: packages/ui/src/modules/event/schedule-page.tsx
+msgid "<0>{0}</0> is awaiting team seeding. Matches will appear once teams are seeded into this stage."
+msgstr "<0>{0}</0> is awaiting team seeding. Matches will appear once teams are seeded into this stage."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
+msgid "Starting draft…"
+msgstr "Starting draft…"
+
+#: packages/ui/src/components/spinner.tsx
+msgid "Loading"
+msgstr "Loading"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "Remove all scheduled times for this selection"
+msgstr "Remove all scheduled times for this selection"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "This stage is split into <0>{groupCount} groups</0>. Use the group names in the navigation bar to open bracket, group standings, teams, and matches for each group."
+msgstr "This stage is split into <0>{groupCount} groups</0>. Use the group names in the navigation bar to open bracket, group standings, teams, and matches for each group."
+
+#: packages/ui/src/modules/organisation/banlist/add-ban-dialog.tsx
+msgid "Target"
+msgstr "Target"
+
+#: packages/ui/src/modules/event/schedule-page.tsx
+msgid "No matches scheduled"
+msgstr "No matches scheduled"
+
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+msgid "Select your preferred playstyle"
+msgstr "Select your preferred playstyle"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Tournament tooling with multistage support."
+msgstr "Tournament tooling with multistage support."
+
+#: packages/ui/src/modules/organisation/banlist/banlist-directory.tsx
+msgid "Ban lists will appear here once someone creates them."
+msgstr "Ban lists will appear here once someone creates them."
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/stats/competitive-stats-tab.tsx
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Clutch Win %"
+msgstr "Clutch Win %"
+
+#. placeholder {0}: entry.evidence.length
+#: packages/ui/src/modules/organisation/banlist/banlist-detail.tsx
+msgid "{0} evidence link(s)"
+msgstr "{0} evidence link(s)"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "lineup role changed"
+msgstr "lineup role changed"
+
+#. placeholder {0}: landingClientMatches.length
+#. placeholder {0}: preview.length
+#: packages/ui/src/features/landing/client-window.tsx
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "{0, plural, one {# match} other {# matches}}"
+msgstr "{0, plural, one {# match} other {# matches}}"
+
+#: packages/ui/src/modules/team/team-matches.tsx
+msgid "Clear all"
+msgstr "Clear all"
+
+#: packages/ui/src/components/dialog.tsx
+#: packages/ui/src/components/sheet.tsx
+#: packages/ui/src/modules/core/command-palette/command-palette.tsx
+#: packages/ui/src/modules/event/signup-dialog/draft-signup-dialog.tsx
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/draft-success-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/no-teams-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/not-authenticated-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/requirements-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/signup-closed-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/solo-signup-dialog.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Close"
+msgstr "Close"
+
+#: packages/ui/src/features/landing/client-window.tsx
+msgid "Showing matches from every team you are on."
+msgstr "Showing matches from every team you are on."
+
+#: packages/ui/src/modules/core/navbar/mobile-links.tsx
+msgid "Login"
+msgstr "Login"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/rulebook-tab.tsx
+msgid "{anticheat} Anti-Cheat"
+msgstr "{anticheat} Anti-Cheat"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "joined as {newRole}"
+msgstr "joined as {newRole}"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Not launched"
+msgstr "Not launched"
+
+#: packages/ui/src/modules/event/draft/draft-signups-page.tsx
+msgid "Approve"
+msgstr "Approve"
+
+#: packages/ui/src/modules/organisation/public-profile/organisation-header.tsx
+msgid "Share"
+msgstr "Share"
+
+#: packages/ui/src/features/landing/feature-hub.tsx
+msgid "MMR-based matchmaking"
+msgstr "MMR-based matchmaking"
+
+#: packages/ui/src/modules/core/navbar/friend-menu.tsx
+msgid "In Game"
+msgstr "In Game"
+
+#: packages/ui/src/modules/team/public-profile/stats/stats-body.tsx
+msgid "Exit Frag Ratio"
+msgstr "Exit Frag Ratio"
+
+#: packages/ui/src/modules/event/signup-dialog/steps/group-selection-step.tsx
+msgid "Signups closed"
+msgstr "Signups closed"
+
+#: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
+msgid "Add Condition"
+msgstr "Add Condition"
+
+#: packages/ui/src/features/download/download-page.tsx
+msgid "v{version} · Windows 10/11 · 64-bit · signed build"
+msgstr "v{version} · Windows 10/11 · 64-bit · signed build"
+
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "{name} will be moved to Analyst."
+msgstr "{name} will be moved to Analyst."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Usage covered before metered rates apply."
+msgstr "Usage covered before metered rates apply."
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+msgid "Boneyard capture"
+msgstr "Boneyard capture"
+
+#: apps/web/src/app/[locale]/(public)/u/[username]/_components/overview/recent-performance-card.tsx
+msgid "Avg K/D"
+msgstr "Avg K/D"
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+#: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
+#: packages/ui/src/modules/team/team-event-detail.tsx
+msgid "Groups"
+msgstr "Groups"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Schedule Matches"
+msgstr "Schedule Matches"
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Help for live operations and billing setup."
+msgstr "Help for live operations and billing setup."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
+msgid "Team limit: {teamLabel}."
+msgstr "Team limit: {teamLabel}."
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "Community cups will appear here when organisers open signups."
+msgstr "Community cups will appear here when organisers open signups."
+
+#: packages/ui/src/modules/core/footer/footer.tsx
+msgid "Landing Page"
+msgstr "Landing Page"
+
+#: packages/ui/src/modules/event/signup-flow/question-item.tsx
+msgid "Custom error message"
+msgstr "Custom error message"
+
+#: apps/web/src/app/[locale]/(public)/boneyard/page.tsx
+msgid "Analytics"
+msgstr "Analytics"
+
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Own your event."
+msgstr "Own your event."
+
+#: packages/ui/src/features/pricing/pricing-page.tsx
+msgid "Checkout"
+msgstr "Checkout"
+
+#: packages/ui/src/modules/event/signup-dialog/shared/draft-success-content.tsx
+#: packages/ui/src/modules/event/signup-dialog/shared/success-content.tsx
+msgid "What's Next?"
+msgstr "What's Next?"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Entry Fees"
+msgstr "Entry Fees"
+
+#: packages/ui/src/features/landing/hero.tsx
+msgid "Browse tournaments"
+msgstr "Browse tournaments"
+
+#: packages/ui/src/modules/event/schedule-panel.tsx
+msgid "Match Details"
+msgstr "Match Details"
+
+#: packages/ui/src/modules/team/public-profile/history/history-content.tsx
+msgid "left the team"
+msgstr "left the team"
+
+#: packages/ui/src/modules/organisation/banlist/create-banlist-dialog.tsx
+msgid "Private"
+msgstr "Private"
+
+#: packages/ui/src/features/home/home-content.tsx
+msgid "No community cups available"
+msgstr "No community cups available"
+
+#: packages/ui/src/features/download/download-page.tsx
+#: packages/ui/src/features/landing/desktop-client.tsx
+msgid "Learn more"
+msgstr "Learn more"
+
+#: packages/ui/src/modules/event/schedule-header.tsx
+msgid "Week"
+msgstr "Week"
+
+#: packages/ui/src/modules/event/prize-pool-page.tsx
+msgid "Gaming headset, merch, etc."
+msgstr "Gaming headset, merch, etc."
+
+#: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/rulebook-tab.tsx
+msgid "Match Rules"
+msgstr "Match Rules"

@@ -84,16 +84,63 @@ function parsePo(path: string): PoEntry[] {
 	return entries.filter((entry) => entry.msgid !== "");
 }
 
-/** Extracts the multiset of ICU placeholders/tags that must survive translation. */
+/**
+ * The multiset of ICU placeholders/tags that must survive translation.
+ * Recursive ICU walk: flat regexes misread prose containing the word "select"
+ * as an ICU keyword and plural branch text like `one {Group}` as a variable.
+ */
 function placeholderSignature(message: string): string {
-	const variables = [...message.matchAll(/\{([a-zA-Z0-9_]+)(?=[,}])/g)]
-		.map((m) => `{${m[1]}}`)
-		.sort();
+	const variables: string[] = [];
+	const keywords: string[] = [];
+
+	function parseMessage(text: string, index: number): number {
+		while (index < text.length) {
+			const char = text[index];
+			if (char === "}") return index;
+			if (char === "{") index = parseArgument(text, index + 1);
+			else index++;
+		}
+		return index;
+	}
+
+	function parseArgument(text: string, index: number): number {
+		const head = text.slice(index).match(/^\s*([a-zA-Z0-9_]+)\s*([,}])/);
+		if (!head) {
+			// Not a valid argument (e.g. literal brace); skip to closing brace.
+			const close = text.indexOf("}", index);
+			return close === -1 ? text.length : close + 1;
+		}
+		variables.push(`{${head[1]}}`);
+		index += head[0].length;
+		if (head[2] === "}") return index;
+		const type = text
+			.slice(index)
+			.match(/^\s*(plural|selectordinal|select|number|date|time)\s*[,}]?/);
+		if (type) {
+			index += type[0].length - (type[0].endsWith("}") ? 1 : 0);
+			if (["plural", "selectordinal", "select"].includes(type[1])) {
+				keywords.push(type[1]);
+				// Parse `key {message}` option pairs until the argument closes.
+				while (index < text.length && text[index] !== "}") {
+					const key = text.slice(index).match(/^\s*(=?[a-zA-Z0-9_]+)\s*\{/);
+					if (!key) break;
+					index += key[0].length;
+					index = parseMessage(text, index);
+					if (text[index] === "}") index++;
+				}
+			}
+		}
+		const close = text.indexOf("}", index);
+		return close === -1 ? text.length : close + 1;
+	}
+
+	parseMessage(message, 0);
 	const tags = [...message.matchAll(/<(\/?[0-9]+)>/g)].map((m) => m[0]).sort();
-	const pluralKeywords = [...message.matchAll(/\b(plural|select|selectordinal)\b/g)]
-		.map((m) => m[1])
-		.sort();
-	return JSON.stringify({ variables, tags, pluralKeywords });
+	return JSON.stringify({
+		variables: variables.sort(),
+		tags,
+		pluralKeywords: keywords.sort(),
+	});
 }
 
 const localesDir = "locales";
