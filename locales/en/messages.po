@@ -51,6 +51,10 @@ msgstr "Captain"
 msgid "Configure how teams pay to join this event."
 msgstr "Configure how teams pay to join this event."
 
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Accept All"
+msgstr "Accept All"
+
 #: packages/ui/src/features/match-detail/map-section.tsx
 msgid "OT"
 msgstr "OT"
@@ -510,6 +514,7 @@ msgstr "DEFENSE"
 msgid "Synced lineup: {0} added, {1} removed."
 msgstr "Synced lineup: {0} added, {1} removed."
 
+#: apps/web/src/components/consent-manager.client.tsx
 #: packages/ui/src/modules/core/footer/footer.tsx
 msgid "Cookies"
 msgstr "Cookies"
@@ -579,6 +584,10 @@ msgstr "No check-in window scheduled"
 #: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
 msgid "Profile link copied!"
 msgstr "Profile link copied!"
+
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Save Preferences"
+msgstr "Save Preferences"
 
 #: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
 #: packages/ui/src/features/stage/round-matches.tsx
@@ -898,6 +907,10 @@ msgstr "Action needed"
 msgid "Sign up for draft"
 msgstr "Sign up for draft"
 
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Cookie Preferences"
+msgstr "Cookie Preferences"
+
 #: apps/web/src/app/[locale]/(public)/soon/page.tsx
 msgid "We're building something"
 msgstr "We're building something"
@@ -950,6 +963,10 @@ msgstr "Queue ranked. Drop the rage."
 #: packages/ui/src/features/pricing/pricing-page.tsx
 msgid "10 included"
 msgstr "10 included"
+
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Reject All"
+msgstr "Reject All"
 
 #: packages/ui/src/features/pricing/pricing-page.tsx
 msgid "Basic API and storage"
@@ -1570,6 +1587,7 @@ msgstr "Verified players"
 msgid "Input Type"
 msgstr "Input Type"
 
+#: apps/web/src/components/consent-manager.client.tsx
 #: packages/ui/src/modules/event/schedule-panel.tsx
 #: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
 #: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
@@ -2666,6 +2684,10 @@ msgstr "Registered by"
 msgid "Successfully registered for {0}"
 msgstr "Successfully registered for {0}"
 
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "GDPR Compliant"
+msgstr "GDPR Compliant"
+
 #: packages/ui/src/modules/team/public-profile/overview/about-card.tsx
 msgid "Country"
 msgstr "Country"
@@ -2738,6 +2760,10 @@ msgstr "Team blocked by banlist"
 #: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
 msgid "Registration questions cannot be changed after the event has been published."
 msgstr "Registration questions cannot be changed after the event has been published."
+
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Required for the website to function. Cannot be disabled."
+msgstr "Required for the website to function. Cannot be disabled."
 
 #: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
 msgid "Draft signups are only visible after the event is published."
@@ -3212,6 +3238,10 @@ msgstr "Pts"
 msgid "AND"
 msgstr "AND"
 
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "This website uses cookies to ensure you get the best experience. EU law requires us to ask for your consent."
+msgstr "This website uses cookies to ensure you get the best experience. EU law requires us to ask for your consent."
+
 #: packages/ui/src/modules/event/schedule-panel.tsx
 msgid "Date"
 msgstr "Date"
@@ -3244,6 +3274,10 @@ msgstr "Win"
 #: packages/ui/src/features/pricing/pricing-page.tsx
 msgid "Map vetoes and bans handled inside Strave."
 msgstr "Map vetoes and bans handled inside Strave."
+
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "We value your privacy"
+msgstr "We value your privacy"
 
 #: packages/ui/src/features/discover/discover-page.tsx
 msgid "All"
@@ -3464,6 +3498,10 @@ msgstr "Tournament Format"
 msgid "All maps"
 msgstr "All maps"
 
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Analytics Cookies"
+msgstr "Analytics Cookies"
+
 #. placeholder {0}: formatDateDisplay(startDateObj!, prefs.dateFormat)
 #. placeholder {1}: prefs.timeFormat === "12h" ? formatTime( createTimestamp( startDate, firstStageStartTime, timezone, ), prefs.timeFormat, prefs.timezone, ) : firstStageStartTime
 #: packages/ui/src/modules/event/schedule-panel.tsx
@@ -3513,6 +3551,10 @@ msgstr "Member"
 #: packages/ui/src/modules/team/team-event-detail.tsx
 msgid "Remove Player"
 msgstr "Remove Player"
+
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Customize which cookies you want to accept. Essential cookies cannot be disabled as they are necessary for the website to function."
+msgstr "Customize which cookies you want to accept. Essential cookies cannot be disabled as they are necessary for the website to function."
 
 #: packages/ui/src/features/landing/desktop-client.tsx
 msgid "Live sync with the website and across all your devices."
@@ -3930,6 +3972,7 @@ msgstr "Search failed"
 msgid "Unschedule ({scheduledCount})"
 msgstr "Unschedule ({scheduledCount})"
 
+#: apps/web/src/components/consent-manager.client.tsx
 #: packages/ui/src/modules/core/footer/footer.tsx
 msgid "Privacy"
 msgstr "Privacy"
@@ -4013,6 +4056,10 @@ msgstr "Access denied"
 #: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
 msgid "Scroll teams left"
 msgstr "Scroll teams left"
+
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Help us understand how you use our website to improve the experience."
+msgstr "Help us understand how you use our website to improve the experience."
 
 #: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
 msgid "<0>Multi-group signup:</0> teams may register into specific groups. Cross-group ranking uses the stage point system. Open the <1>Standing</1> tab when it is available."
@@ -4325,6 +4372,10 @@ msgstr "Coach: {0}"
 msgid "Expand sidebar"
 msgstr "Expand sidebar"
 
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Customize Settings"
+msgstr "Customize Settings"
+
 #. placeholder {0}: year ? `${year} ` : ""
 #: packages/ui/src/modules/core/footer/footer.tsx
 msgid "© {0}Strave. All rights reserved."
@@ -4343,6 +4394,10 @@ msgstr "{0}{1} place"
 #: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
 msgid "Select type"
 msgstr "Select type"
+
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Essential Cookies"
+msgstr "Essential Cookies"
 
 #: packages/ui/src/features/match-detail/scoreboard.tsx
 msgid "plants"
@@ -5240,6 +5295,7 @@ msgstr "{0, plural, one {# match} other {# matches}}"
 msgid "Clear all"
 msgstr "Clear all"
 
+#: apps/web/src/components/consent-manager.client.tsx
 #: packages/ui/src/components/dialog.tsx
 #: packages/ui/src/components/sheet.tsx
 #: packages/ui/src/modules/core/command-palette/command-palette.tsx

@@ -61,6 +61,11 @@ msgid "Configure how teams pay to join this event."
 msgstr "Konfiguriere, wie Teams für die Teilnahme an diesem Event bezahlen."
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Accept All"
+msgstr "Alle akzeptieren"
+
+# machine-translated (codex) - review welcome
 #: packages/ui/src/features/match-detail/map-section.tsx
 msgid "OT"
 msgstr "OT"
@@ -623,6 +628,7 @@ msgid "Synced lineup: {0} added, {1} removed."
 msgstr "Lineup synchronisiert: {0} hinzugefügt, {1} entfernt."
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
 #: packages/ui/src/modules/core/footer/footer.tsx
 msgid "Cookies"
 msgstr "Cookies"
@@ -708,6 +714,11 @@ msgstr "Kein Check-in-Fenster geplant"
 #: apps/web/src/app/[locale]/(public)/u/[username]/_components/profile-header.tsx
 msgid "Profile link copied!"
 msgstr "Profillink kopiert!"
+
+# machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Save Preferences"
+msgstr "Einstellungen speichern"
 
 # machine-translated (codex) - review welcome
 #: packages/ui/src/features/stage/doubleelim-bracket-view.tsx
@@ -938,7 +949,7 @@ msgstr "Bedingungen anzeigen"
 # machine-translated (codex) - review welcome
 #: packages/ui/src/features/home/home-content.tsx
 msgid "Your drafts"
-msgstr "Deine Entwürfe"
+msgstr "Deine Drafts"
 
 # machine-translated (codex) - review welcome
 #: packages/ui/src/modules/event/draft/draft-signups-page.tsx
@@ -1101,6 +1112,11 @@ msgid "Sign up for draft"
 msgstr "Für Draft anmelden"
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Cookie Preferences"
+msgstr "Cookie-Einstellungen"
+
+# machine-translated (codex) - review welcome
 #: apps/web/src/app/[locale]/(public)/soon/page.tsx
 msgid "We're building something"
 msgstr "Wir bauen etwas"
@@ -1165,6 +1181,11 @@ msgstr "Ranked queueen. Kein Rage."
 #: packages/ui/src/features/pricing/pricing-page.tsx
 msgid "10 included"
 msgstr "10 enthalten"
+
+# machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Reject All"
+msgstr "Alle ablehnen"
 
 # machine-translated (codex) - review welcome
 #: packages/ui/src/features/pricing/pricing-page.tsx
@@ -1929,6 +1950,7 @@ msgid "Input Type"
 msgstr "Eingabetyp"
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
 #: packages/ui/src/modules/event/schedule-panel.tsx
 #: packages/ui/src/modules/event/signup-dialog/manage/manage-participation-content.tsx
 #: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
@@ -3273,6 +3295,11 @@ msgid "Successfully registered for {0}"
 msgstr "Erfolgreich für {0} angemeldet"
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "GDPR Compliant"
+msgstr "DSGVO-konform"
+
+# machine-translated (codex) - review welcome
 #: packages/ui/src/modules/team/public-profile/overview/about-card.tsx
 msgid "Country"
 msgstr "Land"
@@ -3361,6 +3388,11 @@ msgstr "Team durch Banlist blockiert"
 #: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
 msgid "Registration questions cannot be changed after the event has been published."
 msgstr "Anmeldefragen können nach der Veröffentlichung des Events nicht mehr geändert werden."
+
+# machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Required for the website to function. Cannot be disabled."
+msgstr "Erforderlich, damit die Website funktioniert. Kann nicht deaktiviert werden."
 
 # machine-translated (codex) - review welcome
 #: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-signups-tab.tsx
@@ -3822,7 +3854,7 @@ msgstr "Hinzufügen"
 #: packages/ui/src/features/home/home-content.tsx
 #: packages/ui/src/features/landing/hero.tsx
 msgid "Drafts"
-msgstr "Entwürfe"
+msgstr "Drafts"
 
 # machine-translated (codex) - review welcome
 #: packages/ui/src/modules/core/navbar/friend-menu.tsx
@@ -3947,6 +3979,11 @@ msgid "AND"
 msgstr "UND"
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "This website uses cookies to ensure you get the best experience. EU law requires us to ask for your consent."
+msgstr "Diese Website verwendet Cookies, damit du das beste Erlebnis hast. EU-Recht verlangt, dass wir dich um Zustimmung bitten."
+
+# machine-translated (codex) - review welcome
 #: packages/ui/src/modules/event/schedule-panel.tsx
 msgid "Date"
 msgstr "Datum"
@@ -3985,6 +4022,11 @@ msgstr "Sieg"
 #: packages/ui/src/features/pricing/pricing-page.tsx
 msgid "Map vetoes and bans handled inside Strave."
 msgstr "Map-Vetos und Bans werden in Strave verwaltet."
+
+# machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "We value your privacy"
+msgstr "Deine Privatsphäre ist uns wichtig"
 
 # machine-translated (codex) - review welcome
 #: packages/ui/src/features/discover/discover-page.tsx
@@ -4257,6 +4299,11 @@ msgid "All maps"
 msgstr "Alle Maps"
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Analytics Cookies"
+msgstr "Analyse-Cookies"
+
+# machine-translated (codex) - review welcome
 #. placeholder {0}: formatDateDisplay(startDateObj!, prefs.dateFormat)
 #. placeholder {1}: prefs.timeFormat === "12h" ? formatTime( createTimestamp( startDate, firstStageStartTime, timezone, ), prefs.timeFormat, prefs.timezone, ) : firstStageStartTime
 #: packages/ui/src/modules/event/schedule-panel.tsx
@@ -4317,6 +4364,11 @@ msgstr "Mitglied"
 #: packages/ui/src/modules/team/team-event-detail.tsx
 msgid "Remove Player"
 msgstr "Spieler entfernen"
+
+# machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Customize which cookies you want to accept. Essential cookies cannot be disabled as they are necessary for the website to function."
+msgstr "Lege fest, welche Cookies du akzeptieren möchtest. Essenzielle Cookies können nicht deaktiviert werden, da sie für die Funktion der Website erforderlich sind."
 
 # machine-translated (codex) - review welcome
 #: packages/ui/src/features/landing/desktop-client.tsx
@@ -4833,6 +4885,7 @@ msgid "Unschedule ({scheduledCount})"
 msgstr "Termin entfernen ({scheduledCount})"
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
 #: packages/ui/src/modules/core/footer/footer.tsx
 msgid "Privacy"
 msgstr "Datenschutz"
@@ -4935,6 +4988,11 @@ msgstr "Zugriff verweigert"
 #: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/_components/tabs/draft-participation-tab.tsx
 msgid "Scroll teams left"
 msgstr "Teams nach links scrollen"
+
+# machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Help us understand how you use our website to improve the experience."
+msgstr "Hilf uns zu verstehen, wie du unsere Website nutzt, damit wir das Erlebnis verbessern können."
 
 # machine-translated (codex) - review welcome
 #: apps/web/src/app/[locale]/(public)/o/[slug]/[eventSlug]/[stageSlug]/page.tsx
@@ -5316,6 +5374,11 @@ msgid "Expand sidebar"
 msgstr "Seitenleiste ausklappen"
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Customize Settings"
+msgstr "Einstellungen anpassen"
+
+# machine-translated (codex) - review welcome
 #. placeholder {0}: year ? `${year} ` : ""
 #: packages/ui/src/modules/core/footer/footer.tsx
 msgid "© {0}Strave. All rights reserved."
@@ -5337,6 +5400,11 @@ msgstr "{0}{1} Platz"
 #: packages/ui/src/modules/event/signup-flow/signup-flow-page.tsx
 msgid "Select type"
 msgstr "Typ auswählen"
+
+# machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
+msgid "Essential Cookies"
+msgstr "Essenzielle Cookies"
 
 # machine-translated (codex) - review welcome
 #: packages/ui/src/features/match-detail/scoreboard.tsx
@@ -6438,6 +6506,7 @@ msgid "Clear all"
 msgstr "Alle löschen"
 
 # machine-translated (codex) - review welcome
+#: apps/web/src/components/consent-manager.client.tsx
 #: packages/ui/src/components/dialog.tsx
 #: packages/ui/src/components/sheet.tsx
 #: packages/ui/src/modules/core/command-palette/command-palette.tsx
